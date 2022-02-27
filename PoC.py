@@ -42,7 +42,6 @@ successtime_Mode=successtime_Mode
 Simulator =Simulator
 min=100000
 max=1000000000000
-#List=[100000000,10000000000,100000000000,1000000000000,10000000000000,100000000000000,255000000000000,98000000000000,49000000000000,160000000000000,23000000000000,200000000000000,5000000000000,23000000000000,43000000000000,55000000000000,59000000000000,54000000000000,52000000000000,53000000000000,51000000000000,39000000000000,38000000000000,36000000000000,35000000000000,34000000000000,32000000000000,67000000000000,63000000000000,69000000000000,61000000000000,2550000000000000,980000000000000,490000000000000,1600000000000000,230000000000000,2000000000000000,50000000000000,230000000000000,430000000000000,550000000000000,590000000000000,540000000000000,520000000000000,530000000000000,510000000000000,390000000000000,380000000000000,360000000000000,350000000000000,340000000000000,320000000000000,670000000000000,630000000000000,690000000000000,610000000000000,25500000000000,9800000000000,4900000000000,16000000000000,2300000000000,20000000000000,500000000000,2300000000000,4300000000000,5500000000000,5900000000000,5400000000000,5200000000000,5300000000000,5100000000000,3900000000000,3800000000000,3600000000000,3500000000000,3400000000000,3200000000000,6700000000000,6300000000000,6900000000000,6100000000000 ]
 List2=(range(0,3))
 NumberofNodes = NumberofNodes #int(input("Enter the number of nodes:")) # Prompt to enter the number of nodes
 MachinePower = int(input("Enter the power consumption of nodes in Watts:"))
@@ -94,7 +93,6 @@ for sim in range(1, numSim):
                 y= 1
                 fork+=1
                 node.successtime+=1
-                print("solution found", node.prob_success_node)
         else:
             counter = counter + 1       # Each count is 1 second
           
@@ -109,12 +107,6 @@ for sim in range(1, numSim):
         print("About to stop now",COV)
         if sim > 10000 and COV < 0.05: # 5% is good criteria for my study to stop the simulation, a lower percentage can be used, based on visual inspection of the plot above. 
             break
-
-#Power comsumption Calculation
-powerconsumption = ((MachinePower * NumberofNodes) * counter)/10000
-totalhashrate=0
-#for ele in range(0, len(List)):
-    #totalhashrate = totalhashrate + List[ele]
     
     
 #Create worksheet and write to it
@@ -157,11 +149,5 @@ worksheet.write('A1' , 'List of Fork', bold_format) # Write to worksheet
 rowIndex=2
 worksheet.write('A' + str(rowIndex), fork)
 
-worksheet = workbook.add_worksheet('Power Consumption')
-worksheet.write('A1' , 'Total Network Hashrate', bold_format) # Write to worksheet
-worksheet.write('B1' , 'Estimated Power Consumption', bold_format)
-rowIndex=2
-worksheet.write('A' + str(rowIndex), totalhashrate)
-worksheet.write('B' + str(rowIndex), powerconsumption)
 
 workbook.close()
