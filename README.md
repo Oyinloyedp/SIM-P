@@ -19,9 +19,9 @@ pip install xlsxwriter
 Run the configuration file InputsConfig.py to choose the model of interest (PoW 0, PoRX 1 and PoC 2) and to set up the related parameters. The parameters include the number of nodes, difficulty, hashrate mode(you can choose to assign hashrate randomly or input specific hashrates),reputation/success time mode(you can choose to assign reputation/success time randomly or input specific reputation/success time) and block reward/penalty parameters.  
 
 Run the selected model by running InputsConfig.py either from the command line
-
+```
 python InputsConfig.py
-
+```
 or using any Python editor such as Spyder.
 
 # Statistics and Results
