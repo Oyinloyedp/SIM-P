@@ -68,8 +68,7 @@ for i in range(1, NumberofNodes+1):
     node.prob_success_trial = (node.target/(2**256))
     print("Target is :", node.target)
     node.prob_failure_trial = 1 - node.prob_success_trial
-    node.prob_success_node = 1 - node.prob_failure_trial**node.hashRate
-    print("Probability of a node is: ", node.prob_success_node)
+    node.prob_success_node = (1 - node.prob_failure_trial)*node.hashRate
     node.prob_failure_node = 1 - node.prob_success_node
     nodes[i] = node # add created node object to dict
     
