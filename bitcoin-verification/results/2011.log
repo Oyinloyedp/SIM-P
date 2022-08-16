@@ -10,7 +10,7 @@ Current COV and iteration 0.6552313365297923 7001
 Current COV and iteration 0.5006299551572753 8001
 Current COV and iteration 0.33413456760507865 9001
 Average time =  7.881318131813182
-Mean Average Error =  0.05019093409340902
+Mean Average Error =  0.10038186818681805
 ====
 Diff = 14484.1624, Hash Rate = 126120270612.5120 Expected Result = 8.2209.
 Current COV and iteration 99.9949998749938 1
@@ -24,7 +24,7 @@ Current COV and iteration 0.6551100162901015 7001
 Current COV and iteration 0.5005016733989074 8001
 Current COV and iteration 0.33396844695927513 9001
 Average time =  8.124785811914526
-Mean Average Error =  0.06549868542409747
+Mean Average Error =  0.09824802813614619
 ====
 Diff = 16307.4209, Hash Rate = 124375397360.1160 Expected Result = 9.1568.
 Current COV and iteration 99.9949998749938 1
@@ -38,7 +38,7 @@ Current COV and iteration 0.6550925967588512 7001
 Current COV and iteration 0.5004636734699508 8001
 Current COV and iteration 0.33391016309272287 9001
 Average time =  9.287250391705838
-Mean Average Error =  0.08173661199453242
+Mean Average Error =  0.10898214932604322
 ====
 Diff = 16307.4209, Hash Rate = 113441127855.2630 Expected Result = 10.2902.
 Current COV and iteration 99.9949998749938 1
@@ -52,7 +52,7 @@ Current COV and iteration 0.6549595549466597 7001
 Current COV and iteration 0.5003302809410455 8001
 Current COV and iteration 0.3337423811964202 9001
 Average time =  10.22967463413008
-Mean Average Error =  0.07749436276961016
+Mean Average Error =  0.09686795346201271
 ====
 Diff = 16307.4209, Hash Rate = 125706672187.8880 Expected Result = 9.2861.
 Current COV and iteration 99.9949998749938 1
@@ -66,7 +66,7 @@ Current COV and iteration 0.6551211729318216 7001
 Current COV and iteration 0.5004900376699708 8001
 Current COV and iteration 0.3339379636366735 9001
 Average time =  9.19080241357469
-Mean Average Error =  0.0804615667122266
+Mean Average Error =  0.09655388005467191
 ====
 Diff = 16307.4209, Hash Rate = 113535028516.3760 Expected Result = 10.2817.
 Current COV and iteration 99.9949998749938 1
@@ -80,7 +80,7 @@ Current COV and iteration 0.6549643574757655 7001
 Current COV and iteration 0.5003347399077248 8001
 Current COV and iteration 0.33374775242893623 9001
 Average time =  10.207482414908156
-Mean Average Error =  0.07956956933788627
+Mean Average Error =  0.09283116422753397
 ====
 Diff = 16307.4209, Hash Rate = 132818400107.9990 Expected Result = 8.7889.
 Current COV and iteration 99.9949998749938 1
@@ -94,7 +94,7 @@ Current COV and iteration 0.6549895618241711 7001
 Current COV and iteration 0.5003656238698305 8001
 Current COV and iteration 0.3337916983483082 9001
 Average time =  8.689488948894889
-Mean Average Error =  0.08204975455878938
+Mean Average Error =  0.09377114806718786
 ====
 Diff = 16307.4209, Hash Rate = 137829012527.4160 Expected Result = 8.4694.
 Current COV and iteration 99.9949998749938 1
@@ -108,7 +108,7 @@ Current COV and iteration 0.6549952242901632 7001
 Current COV and iteration 0.5003754741360256 8001
 Current COV and iteration 0.33380813518434865 9001
 Average time =  8.393624362436244
-Mean Average Error =  0.08135263044823018
+Mean Average Error =  0.09152170925425895
 ====
 Diff = 16307.4209, Hash Rate = 132095594577.1760 Expected Result = 8.8370.
 Current COV and iteration 99.9949998749938 1
@@ -122,7 +122,7 @@ Current COV and iteration 0.6549883468968516 7001
 Current COV and iteration 0.5003589147668501 8001
 Current COV and iteration 0.3337800518190964 9001
 Average time =  8.720648731539821
-Mean Average Error =  0.08485249424942501
+Mean Average Error =  0.09428054916602778
 ====
 Diff = 16307.4209, Hash Rate = 136359259912.4380 Expected Result = 8.5607.
 Current COV and iteration 99.9949998749938 1
@@ -136,7 +136,7 @@ Current COV and iteration 0.6549669764253232 7001
 Current COV and iteration 0.5003444206259703 8001
 Current COV and iteration 0.33376745691033677 9001
 Average time =  8.486561989532285
-Mean Average Error =  0.08387845026926956
+Mean Average Error =  0.09226629529619652
 ====
 Diff = 16307.4209, Hash Rate = 134830689141.8330 Expected Result = 8.6578.
 Current COV and iteration 99.9949998749938 1
@@ -150,7 +150,7 @@ Current COV and iteration 0.6550004350548423 7001
 Current COV and iteration 0.5003805671159816 8001
 Current COV and iteration 0.33381463833357905 9001
 Average time =  8.563012967963463
-Mean Average Error =  0.08478749874987519
+Mean Average Error =  0.09249545318168204
 ====
 Diff = 16307.4209, Hash Rate = 135941205636.5410 Expected Result = 8.5870.
 Current COV and iteration 99.9949998749938 1
@@ -164,7 +164,7 @@ Current COV and iteration 0.6549907255135707 7001
 Current COV and iteration 0.5003691534135302 8001
 Current COV and iteration 0.33379833207418974 9001
 Average time =  8.510481048104811
-Mean Average Error =  0.08415145668413007
+Mean Average Error =  0.09116407807447424
 ====
 Diff = 16307.4209, Hash Rate = 152230595827.0610 Expected Result = 7.6682.
 Current COV and iteration 99.9949998749938 1
@@ -178,7 +178,7 @@ Current COV and iteration 0.6552349683599579 7001
 Current COV and iteration 0.5006201291729707 8001
 Current COV and iteration 0.33410984764876367 9001
 Average time =  7.608217488415509
-Mean Average Error =  0.08242510346272727
+Mean Average Error =  0.08876549603678321
 ====
 Diff = 16307.4209, Hash Rate = 146295204777.1270 Expected Result = 7.9793.
 Current COV and iteration 99.9949998749938 1
@@ -192,7 +192,7 @@ Current COV and iteration 0.6552359543726879 7001
 Current COV and iteration 0.5006345748783328 8001
 Current COV and iteration 0.33413989558198254 9001
 Average time =  7.88028636196953
-Mean Average Error =  0.0835310057672435
+Mean Average Error =  0.08949750617918946
 ====
 Diff = 18437.6444, Hash Rate = 136161051994.7910 Expected Result = 9.0439.
 Current COV and iteration 99.9949998749938 1
@@ -206,7 +206,7 @@ Current COV and iteration 0.6550851211054279 7001
 Current COV and iteration 0.5004583629540389 8001
 Current COV and iteration 0.33390117309227557 9001
 Average time =  9.62008700870087
-Mean Average Error =  0.11432200595059505
+Mean Average Error =  0.12194347301396806
 ====
 Diff = 18437.6444, Hash Rate = 157137316412.4530 Expected Result = 8.3991.
 Current COV and iteration 99.9949998749938 1
@@ -220,7 +220,7 @@ Current COV and iteration 0.6549669257541884 7001
 Current COV and iteration 0.5003438591773803 8001
 Current COV and iteration 0.3337667336857798 9001
 Average time =  8.337245391205787
-Mean Average Error =  0.1112356884708079
+Mean Average Error =  0.1181879190002334
 ====
 Diff = 18437.6444, Hash Rate = 165575669685.7460 Expected Result = 7.9711.
 Current COV and iteration 99.9949998749938 1
@@ -234,7 +234,7 @@ Current COV and iteration 0.6552441118286296 7001
 Current COV and iteration 0.500643440838224 8001
 Current COV and iteration 0.33415093076714564 9001
 Average time =  7.877629429609628
-Mean Average Error =  0.11024873746633926
+Mean Average Error =  0.1167339573173004
 ====
 Diff = 18437.6444, Hash Rate = 132164580268.5790 Expected Result = 9.9862.
 Current COV and iteration 99.9949998749938 1
@@ -248,7 +248,7 @@ Current COV and iteration 0.6549758373459533 7001
 Current COV and iteration 0.5003454045518116 8001
 Current COV and iteration 0.33376420375902466 9001
 Average time =  9.896979697969796
-Mean Average Error =  0.10914197770654269
+Mean Average Error =  0.11520542091246172
 ====
 Diff = 18437.6444, Hash Rate = 152766477168.4000 Expected Result = 8.6394.
 Current COV and iteration 99.9949998749938 1
@@ -262,7 +262,7 @@ Current COV and iteration 0.6549995261168083 7001
 Current COV and iteration 0.5003796923108639 8001
 Current COV and iteration 0.3338132194354562 9001
 Average time =  8.555270527052706
-Mean Average Error =  0.10789135246858028
+Mean Average Error =  0.11356984470376871
 ====
 Diff = 18437.6444, Hash Rate = 169540486209.4060 Expected Result = 7.7847.
 Current COV and iteration 99.9949998749938 1
@@ -276,7 +276,7 @@ Current COV and iteration 0.6552010963261398 7001
 Current COV and iteration 0.5005912285179085 8001
 Current COV and iteration 0.3340810115338159 9001
 Average time =  7.71955028836217
-Mean Average Error =  0.10585603623854457
+Mean Average Error =  0.1111488380504718
 ====
 Diff = 18437.6444, Hash Rate = 159673903912.8880 Expected Result = 8.2657.
 Current COV and iteration 99.9949998749938 1
@@ -290,7 +290,7 @@ Current COV and iteration 0.6550729531064721 7001
 Current COV and iteration 0.5004567766583873 8001
 Current COV and iteration 0.3339036248759197 9001
 Average time =  8.187247058039137
-Mean Average Error =  0.10461044104410452
+Mean Average Error =  0.1095918906176333
 ====
 Diff = 18437.6444, Hash Rate = 151061299333.4020 Expected Result = 8.7370.
 Current COV and iteration 99.9949998749938 1
@@ -304,7 +304,7 @@ Current COV and iteration 0.654976517464824 7001
 Current COV and iteration 0.5003529352610855 8001
 Current COV and iteration 0.33377709535778055 9001
 Average time =  8.63904557122379
-Mean Average Error =  0.10432104920637
+Mean Average Error =  0.10906291507938683
 ====
 Diff = 18437.6444, Hash Rate = 155556187117.7020 Expected Result = 8.4845.
 Current COV and iteration 99.9949998749938 1
@@ -318,7 +318,7 @@ Current COV and iteration 0.6549741963919877 7001
 Current COV and iteration 0.5003512736841613 8001
 Current COV and iteration 0.33377658423062145 9001
 Average time =  8.418291829182918
-Mean Average Error =  0.10273301260681637
+Mean Average Error =  0.10719966532885186
 ====
 Diff = 18437.6444, Hash Rate = 172365430692.5140 Expected Result = 7.6571.
 Current COV and iteration 99.9949998749938 1
@@ -332,7 +332,7 @@ Current COV and iteration 0.6552459030022082 7001
 Current COV and iteration 0.5006328856607946 8001
 Current COV and iteration 0.3341266876137891 9001
 Average time =  7.598196486315299
-Mean Average Error =  0.10097983264993175
+Mean Average Error =  0.10518732567701224
 ====
 Diff = 18437.6444, Hash Rate = 142796828496.0880 Expected Result = 9.2426.
 Current COV and iteration 99.9949998749938 1
@@ -346,7 +346,7 @@ Current COV and iteration 0.655102043807881 7001
 Current COV and iteration 0.5004738252563952 8001
 Current COV and iteration 0.3339209862040277 9001
 Average time =  9.142297563089642
-Mean Average Error =  0.10095377896764045
+Mean Average Error =  0.10499193012634606
 ====
 Diff = 18437.6444, Hash Rate = 165492497966.3150 Expected Result = 7.9751.
 Current COV and iteration 99.9949998749938 1
@@ -360,7 +360,7 @@ Current COV and iteration 0.6552359543726879 7001
 Current COV and iteration 0.5006345748783328 8001
 Current COV and iteration 0.33413989558198254 9001
 Average time =  7.88028636196953
-Mean Average Error =  0.10072636634033785
+Mean Average Error =  0.10460045735342777
 ====
 Diff = 22012.3813, Hash Rate = 162890336393.8540 Expected Result = 9.0254.
 Current COV and iteration 99.9949998749938 1
@@ -374,7 +374,7 @@ Current COV and iteration 0.6550983418673179 7001
 Current COV and iteration 0.5004733816757274 8001
 Current COV and iteration 0.3339212819214665 9001
 Average time =  9.598851551821848
-Mean Average Error =  0.11760940867896326
+Mean Average Error =  0.12196531270411004
 ====
 Diff = 22012.3813, Hash Rate = 179083445507.7470 Expected Result = 8.7987.
 Current COV and iteration 99.9949998749938 1
@@ -388,7 +388,7 @@ Current COV and iteration 0.6549840891995843 7001
 Current COV and iteration 0.50035883532561 8001
 Current COV and iteration 0.3337827504747898 9001
 Average time =  8.691310797746441
-Mean Average Error =  0.11725698776774242
+Mean Average Error =  0.12144473733087609
 ====
 Diff = 22012.3813, Hash Rate = 170638951262.9020 Expected Result = 9.2342.
 Current COV and iteration 99.9949998749938 1
@@ -402,7 +402,7 @@ Current COV and iteration 0.6551198559215262 7001
 Current COV and iteration 0.5004921342641667 8001
 Current COV and iteration 0.3339423957929669 9001
 Average time =  9.124870820415374
-Mean Average Error =  0.11699272749497185
+Mean Average Error =  0.12102695947755708
 ====
 Diff = 22012.3813, Hash Rate = 170163989255.9930 Expected Result = 9.2599.
 Current COV and iteration 99.9949998749938 1
@@ -416,7 +416,7 @@ Current COV and iteration 0.6551256260983115 7001
 Current COV and iteration 0.5004969460699512 8001
 Current COV and iteration 0.33394828217727796 9001
 Average time =  9.157569090242358
-Mean Average Error =  0.11651976563247733
+Mean Average Error =  0.12040375782022658
 ====
 Diff = 22012.3813, Hash Rate = 187950578884.3470 Expected Result = 8.3836.
 Current COV and iteration 99.9949998749938 1
@@ -430,7 +430,7 @@ Current COV and iteration 0.6549879129605625 7001
 Current COV and iteration 0.5003673051593305 8001
 Current COV and iteration 0.33379567626098333 9001
 Average time =  8.305977264393107
-Mean Average Error =  0.11530423344417781
+Mean Average Error =  0.1190237248456029
 ====
 Diff = 22012.3813, Hash Rate = 177786782681.2520 Expected Result = 8.8629.
 Current COV and iteration 99.9949998749938 1
@@ -444,7 +444,7 @@ Current COV and iteration 0.6550845873939689 7001
 Current COV and iteration 0.5004612142821376 8001
 Current COV and iteration 0.33390686864904945 9001
 Average time =  8.768958562522918
-Mean Average Error =  0.11465687599062943
+Mean Average Error =  0.1182399033653366
 ====
 Diff = 22012.3813, Hash Rate = 173939011361.2430 Expected Result = 9.0590.
 Current COV and iteration 99.9949998749938 1
@@ -458,7 +458,7 @@ Current COV and iteration 0.6550685325170064 7001
 Current COV and iteration 0.5004383492772899 8001
 Current COV and iteration 0.3338738369814809 9001
 Average time =  8.949794979497948
-Mean Average Error =  0.11449652729978889
+Mean Average Error =  0.11796611903614612
 ====
 Diff = 22012.3813, Hash Rate = 174043229774.2560 Expected Result = 9.0535.
 Current COV and iteration 99.9949998749938 1
@@ -472,7 +472,7 @@ Current COV and iteration 0.6550687372213585 7001
 Current COV and iteration 0.5004382920672009 8001
 Current COV and iteration 0.3338738079081376 9001
 Average time =  8.945592892622596
-Mean Average Error =  0.11430825815914931
+Mean Average Error =  0.11767026575206548
 ====
 Diff = 22012.3813, Hash Rate = 212054580636.8970 Expected Result = 7.4307.
 Current COV and iteration 99.9949998749938 1
@@ -486,7 +486,7 @@ Current COV and iteration 0.6552579873568568 7001
 Current COV and iteration 0.5006617968200806 8001
 Current COV and iteration 0.33418113350472406 9001
 Average time =  7.390584058405841
-Mean Average Error =  0.11224736047678847
+Mean Average Error =  0.11545442791898243
 ====
 Diff = 22012.3813, Hash Rate = 196064369322.7160 Expected Result = 8.0367.
 Current COV and iteration 99.9949998749938 1
@@ -500,7 +500,7 @@ Current COV and iteration 0.6551805462204576 7001
 Current COV and iteration 0.5005732839789443 8001
 Current COV and iteration 0.33406017685760936 9001
 Average time =  7.924744141080775
-Mean Average Error =  0.11223948205631377
+Mean Average Error =  0.11535724544676694
 ====
 Diff = 22012.3813, Hash Rate = 195196666913.3360 Expected Result = 8.0724.
 Current COV and iteration 99.9949998749938 1
@@ -514,7 +514,7 @@ Current COV and iteration 0.6551363550035517 7001
 Current COV and iteration 0.5005319684834431 8001
 Current COV and iteration 0.33401458101148296 9001
 Average time =  7.966841684168417
-Mean Average Error =  0.11206366189250509
+Mean Average Error =  0.11509240951122143
 ====
 Diff = 22012.3813, Hash Rate = 221283266244.0290 Expected Result = 7.1208.
 Current COV and iteration 99.9949998749938 1
@@ -528,7 +528,7 @@ Current COV and iteration 0.6550884974045994 7001
 Current COV and iteration 0.50048158762785 8001
 Current COV and iteration 0.33395204807347173 9001
 Average time =  7.103453678701204
-Mean Average Error =  0.10963501213369205
+Mean Average Error =  0.1125201440319471
 ====
 Diff = 25997.8799, Hash Rate = 210719986748.9430 Expected Result = 8.4932.
 Current COV and iteration 99.9949998749938 1
@@ -542,7 +542,7 @@ Current COV and iteration 0.6549600485093576 7001
 Current COV and iteration 0.5003296583903494 8001
 Current COV and iteration 0.3337452580514306 9001
 Average time =  8.713286328632865
-Mean Average Error =  0.11239629504617137
+Mean Average Error =  0.11527825132940653
 ====
 Diff = 25997.8799, Hash Rate = 245036442868.3550 Expected Result = 7.5948.
 Current COV and iteration 99.9949998749938 1
@@ -556,7 +556,7 @@ Current COV and iteration 0.6552812398990602 7001
 Current COV and iteration 0.5006761602244019 8001
 Current COV and iteration 0.3341874339488694 9001
 Average time =  7.533883388338834
-Mean Average Error =  0.11114069301239075
+Mean Average Error =  0.11391921033770051
 ====
 Diff = 25997.8799, Hash Rate = 241368200672.6720 Expected Result = 7.7102.
 Current COV and iteration 99.9949998749938 1
@@ -570,7 +570,7 @@ Current COV and iteration 0.655188733397303 7001
 Current COV and iteration 0.5005692245155575 8001
 Current COV and iteration 0.33404493888425796 9001
 Average time =  7.63973230656399
-Mean Average Error =  0.11017228826057217
+Mean Average Error =  0.11285941724253735
 ====
 Diff = 25997.8799, Hash Rate = 239613828454.0210 Expected Result = 7.7667.
 Current COV and iteration 99.9949998749938 1
@@ -584,7 +584,7 @@ Current COV and iteration 0.6551812177067208 7001
 Current COV and iteration 0.5005698200876507 8001
 Current COV and iteration 0.33405355758631966 9001
 Average time =  7.686503650365037
-Mean Average Error =  0.10947517340881384
+Mean Average Error =  0.11208172515664273
 ====
 Diff = 25997.8799, Hash Rate = 254212038838.8620 Expected Result = 7.3207.
 Current COV and iteration 99.9949998749938 1
@@ -598,7 +598,7 @@ Current COV and iteration 0.6552250746403957 7001
 Current COV and iteration 0.500620050497162 8001
 Current COV and iteration 0.33412211721127977 9001
 Average time =  7.296342967630097
-Mean Average Error =  0.10754067020338405
+Mean Average Error =  0.1100416160220674
 ====
 Diff = 25997.8799, Hash Rate = 255358559509.7610 Expected Result = 7.2878.
 Current COV and iteration 99.9949998749938 1
@@ -612,7 +612,7 @@ Current COV and iteration 0.6552620775456685 7001
 Current COV and iteration 0.5006599603887488 8001
 Current COV and iteration 0.3341723552851351 9001
 Average time =  7.2658699203253665
-Mean Average Error =  0.10563821263607848
+Mean Average Error =  0.10803908110508026
 ====
 Diff = 25997.8799, Hash Rate = 254002560707.4630 Expected Result = 7.3267.
 Current COV and iteration 99.9949998749938 1
@@ -626,7 +626,7 @@ Current COV and iteration 0.6552159994519944 7001
 Current COV and iteration 0.5006083705565244 8001
 Current COV and iteration 0.3341064288227396 9001
 Average time =  7.305535553555356
-Mean Average Error =  0.10380182641452555
+Mean Average Error =  0.10610853366818167
 ====
 Diff = 25997.8799, Hash Rate = 288849018296.6270 Expected Result = 6.4428.
 Current COV and iteration 99.9949998749938 1
@@ -640,7 +640,7 @@ Current COV and iteration 0.655387525930357 7001
 Current COV and iteration 0.5008119266316591 8001
 Current COV and iteration 0.3343551441122022 9001
 Average time =  6.421503817048372
-Mean Average Error =  0.10204638719191071
+Mean Average Error =  0.10426478691347399
 ====
 Diff = 25997.8799, Hash Rate = 299904260596.6920 Expected Result = 6.2053.
 Current COV and iteration 99.9949998749938 1
@@ -654,7 +654,7 @@ Current COV and iteration 0.655354808079874 7001
 Current COV and iteration 0.500794645841191 8001
 Current COV and iteration 0.3343426721674841 9001
 Average time =  6.196154615461547
-Mean Average Error =  0.10011094963663035
+Mean Average Error =  0.10224096984166503
 ====
 Diff = 25997.8799, Hash Rate = 298756835824.7020 Expected Result = 6.2291.
 Current COV and iteration 99.9949998749938 1
@@ -668,7 +668,7 @@ Current COV and iteration 0.6554137069580633 7001
 Current COV and iteration 0.5008555133604404 8001
 Current COV and iteration 0.3344177418216835 9001
 Average time =  6.220798746541321
-Mean Average Error =  0.09823728236769257
+Mean Average Error =  0.1002838924170195
 ====
 Diff = 36459.8869, Hash Rate = 359600812272.1930 Expected Result = 6.7862.
 Current COV and iteration 99.9949998749938 1
@@ -682,7 +682,7 @@ Current COV and iteration 0.6552779589829815 7001
 Current COV and iteration 0.500675644465029 8001
 Current COV and iteration 0.3341904225397116 9001
 Average time =  7.244796146281295
-Mean Average Error =  0.1054444596459646
+Mean Average Error =  0.10759638739384143
 ====
 Diff = 36459.8869, Hash Rate = 292522509605.9880 Expected Result = 8.9220.
 Current COV and iteration 99.9949998749938 1
@@ -696,7 +696,7 @@ Current COV and iteration 0.6551472009262722 7001
 Current COV and iteration 0.5005263661211777 8001
 Current COV and iteration 0.3339870048591136 9001
 Average time =  8.843841050771744
-Mean Average Error =  0.10490944963777427
+Mean Average Error =  0.10700763863052976
 ====
 Diff = 36459.8869, Hash Rate = 359614659737.3790 Expected Result = 7.2575.
 Current COV and iteration 99.9949998749938 1
@@ -710,7 +710,7 @@ Current COV and iteration 0.6552779589829815 7001
 Current COV and iteration 0.500675644465029 8001
 Current COV and iteration 0.3341904225397116 9001
 Average time =  7.244796146281295
-Mean Average Error =  0.1031362651008691
+Mean Average Error =  0.10515854480872928
 ====
 Diff = 36459.8869, Hash Rate = 350213156493.8700 Expected Result = 7.4523.
 Current COV and iteration 99.9949998749938 1
@@ -724,7 +724,7 @@ Current COV and iteration 0.6552308218120195 7001
 Current COV and iteration 0.5006290260193811 8001
 Current COV and iteration 0.3341362776222453 9001
 Average time =  7.41017768443511
-Mean Average Error =  0.10198505850585063
+Mean Average Error =  0.10394630963096313
 ====
 Diff = 36459.8869, Hash Rate = 387245542090.9130 Expected Result = 6.7397.
 Current COV and iteration 99.9949998749938 1
@@ -738,7 +738,7 @@ Current COV and iteration 0.6552409124688734 7001
 Current COV and iteration 0.5006424009724981 8001
 Current COV and iteration 0.334139960525197 9001
 Average time =  6.7428092809280935
-Mean Average Error =  0.10015402558774401
+Mean Average Error =  0.10204372418373918
 ====
 Diff = 36459.8869, Hash Rate = 435855304232.9250 Expected Result = 5.9880.
 Current COV and iteration 99.9949998749938 1
@@ -752,7 +752,7 @@ Current COV and iteration 0.6554942438895468 7001
 Current COV and iteration 0.5009502533660698 8001
 Current COV and iteration 0.33454457712447205 9001
 Average time =  5.959267593426009
-Mean Average Error =  0.09885545069658487
+Mean Average Error =  0.10068610719096606
 ====
 Diff = 36459.8869, Hash Rate = 374215981638.7340 Expected Result = 6.9743.
 Current COV and iteration 99.9949998749938 1
@@ -766,7 +766,7 @@ Current COV and iteration 0.6550754069380382 7001
 Current COV and iteration 0.5004683608027354 8001
 Current COV and iteration 0.3339307476794926 9001
 Average time =  6.978824549121579
-Mean Average Error =  0.0971709703113169
+Mean Average Error =  0.0989377152260681
 ====
 Diff = 36459.8869, Hash Rate = 407330199664.6450 Expected Result = 6.4073.
 Current COV and iteration 99.9949998749938 1
@@ -780,7 +780,7 @@ Current COV and iteration 0.655297404739149 7001
 Current COV and iteration 0.5007156864737764 8001
 Current COV and iteration 0.33423471934203147 9001
 Average time =  6.383905057172384
-Mean Average Error =  0.09587665403967302
+Mean Average Error =  0.09758873714752433
 ====
 Diff = 36459.8869, Hash Rate = 500769926665.3370 Expected Result = 5.2118.
 Current COV and iteration 99.99499987499372 1
@@ -794,7 +794,7 @@ Current COV and iteration 0.6553769588349653 7001
 Current COV and iteration 0.5007573859406553 8001
 Current COV and iteration 0.3343093040252684 9001
 Average time =  5.207282394906158
-Mean Average Error =  0.0943014980233656
+Mean Average Error =  0.09595591026938956
 ====
 Diff = 55589.5181, Hash Rate = 548132663685.9020 Expected Result = 5.8570.
 Current COV and iteration 99.9949998749938 1
@@ -808,7 +808,7 @@ Current COV and iteration 0.6552737563141668 7001
 Current COV and iteration 0.5006717630903075 8001
 Current COV and iteration 0.3341863626607395 9001
 Average time =  7.245654565456546
-Mean Average Error =  0.11623968560697882
+Mean Average Error =  0.11824381811744397
 ====
 Diff = 55589.5181, Hash Rate = 417486848831.3040 Expected Result = 9.5314.
 Current COV and iteration 99.9949998749938 1
@@ -822,7 +822,7 @@ Current COV and iteration 0.6550906197889441 7001
 Current COV and iteration 0.5004676081970391 8001
 Current COV and iteration 0.33391939349095984 9001
 Average time =  9.457565756575658
-Mean Average Error =  0.1155329282372682
+Mean Average Error =  0.11749111346162867
 ====
 Diff = 55589.5181, Hash Rate = 354985659131.8080 Expected Result = 11.2096.
 Current COV and iteration 99.9949998749938 1
@@ -836,7 +836,7 @@ Current COV and iteration 0.6549771436299394 7001
 Current COV and iteration 0.5003431688186637 8001
 Current COV and iteration 0.3337544091194763 9001
 Average time =  11.044482781611494
-Mean Average Error =  0.11634578545286227
+Mean Average Error =  0.11828488187707663
 ====
 Diff = 55589.5181, Hash Rate = 462202614317.3840 Expected Result = 8.6093.
 Current COV and iteration 99.9949998749938 1
@@ -850,7 +850,7 @@ Current COV and iteration 0.655007504120391 7001
 Current COV and iteration 0.5003879974090394 8001
 Current COV and iteration 0.33382283371922233 9001
 Average time =  8.53151648498183
-Mean Average Error =  0.11572381334907689
+Mean Average Error =  0.11762092504332404
 ====
 Diff = 55589.5181, Hash Rate = 514016554176.5920 Expected Result = 7.7415.
 Current COV and iteration 99.9949998749938 1
@@ -864,7 +864,7 @@ Current COV and iteration 0.6552018210948617 7001
 Current COV and iteration 0.5005910389638311 8001
 Current COV and iteration 0.33407890432699205 9001
 Average time =  7.671918858552521
-Mean Average Error =  0.11499138998555945
+Mean Average Error =  0.11684608982403623
 ====
 Diff = 55589.5181, Hash Rate = 614130809382.4620 Expected Result = 6.4795.
 Current COV and iteration 99.9949998749938 1
@@ -878,7 +878,7 @@ Current COV and iteration 0.6553880192707522 7001
 Current COV and iteration 0.5008026356588203 8001
 Current COV and iteration 0.33433597057323283 9001
 Average time =  6.46870687068707
-Mean Average Error =  0.11336329216254962
+Mean Average Error =  0.1151627094984631
 ====
 Diff = 55589.5181, Hash Rate = 770536874897.1150 Expected Result = 5.1643.
 Current COV and iteration 99.99499987499372 1
@@ -892,7 +892,7 @@ Current COV and iteration 0.6553680805700202 7001
 Current COV and iteration 0.5007485788128367 8001
 Current COV and iteration 0.3343002214926068 9001
 Average time =  5.162641264126412
-Mean Average Error =  0.11164476052733482
+Mean Average Error =  0.11338920991057443
 ====
 Diff = 55589.5181, Hash Rate = 753170859164.9990 Expected Result = 5.2833.
 Current COV and iteration 99.99499987499372 1
@@ -906,7 +906,7 @@ Current COV and iteration 0.6553379719488327 7001
 Current COV and iteration 0.500716036165342 8001
 Current COV and iteration 0.33425037752823056 9001
 Average time =  5.27983965063173
-Mean Average Error =  0.1100056027825005
+Mean Average Error =  0.11169799667146205
 ====
 Diff = 55589.5181, Hash Rate = 580651674238.9270 Expected Result = 6.8531.
 Current COV and iteration 99.9949998749938 1
@@ -920,7 +920,7 @@ Current COV and iteration 0.6551446315258349 7001
 Current COV and iteration 0.5005482884575517 8001
 Current COV and iteration 0.33403158803284194 9001
 Average time =  6.858677534420109
-Mean Average Error =  0.10844697489649466
+Mean Average Error =  0.11009011087977488
 ====
 Diff = 55589.5181, Hash Rate = 515902282827.3210 Expected Result = 7.7132.
 Current COV and iteration 99.9949998749938 1
@@ -934,7 +934,7 @@ Current COV and iteration 0.6552312894460628 7001
 Current COV and iteration 0.5006172159649926 8001
 Current COV and iteration 0.3341067955389853 9001
 Average time =  7.648713204653799
-Mean Average Error =  0.10780050166781387
+Mean Average Error =  0.10940946437927378
 ====
 Diff = 76192.6193, Hash Rate = 500124910043.4790 Expected Result = 8.9702.
 Current COV and iteration 99.9949998749938 1
@@ -948,7 +948,7 @@ Current COV and iteration 0.6549266782539322 7001
 Current COV and iteration 0.5002896993215391 8001
 Current COV and iteration 0.33368836125493956 9001
 Average time =  10.76143781044771
-Mean Average Error =  0.13219814382404424
+Mean Average Error =  0.13414223417439783
 ====
 Diff = 76192.6193, Hash Rate = 414830641456.1170 Expected Result = 13.1477.
 Current COV and iteration 99.9949998749938 1
@@ -962,7 +962,7 @@ Current COV and iteration 0.65500310905982 7001
 Current COV and iteration 0.5003690506341222 8001
 Current COV and iteration 0.33380549440355245 9001
 Average time =  12.87001700170017
-Mean Average Error =  0.13427649888798404
+Mean Average Error =  0.13622253510375193
 ====
 Diff = 76192.6193, Hash Rate = 494534375037.6320 Expected Result = 11.0287.
 Current COV and iteration 99.9949998749938 1
@@ -976,7 +976,7 @@ Current COV and iteration 0.6548981359144895 7001
 Current COV and iteration 0.5002555910351404 8001
 Current COV and iteration 0.33364367062272604 9001
 Average time =  10.88070473714038
-Mean Average Error =  0.13446972091575357
+Mean Average Error =  0.13639071692883575
 ====
 Diff = 76192.6193, Hash Rate = 527978439850.8590 Expected Result = 10.3301.
 Current COV and iteration 99.9949998749938 1
@@ -990,7 +990,7 @@ Current COV and iteration 0.6549458305987922 7001
 Current COV and iteration 0.5003150549940711 8001
 Current COV and iteration 0.33372376279997557 9001
 Average time =  10.271925525885923
-Mean Average Error =  0.13341006471017472
+Mean Average Error =  0.1352890797060927
 ====
 Diff = 76192.6193, Hash Rate = 451026535168.0230 Expected Result = 12.0926.
 Current COV and iteration 99.9949998749938 1
@@ -1004,7 +1004,7 @@ Current COV and iteration 0.6550024107468222 7001
 Current COV and iteration 0.5003671135446239 8001
 Current COV and iteration 0.3337873634566295 9001
 Average time =  11.788977231056439
-Mean Average Error =  0.13574174559008412
+Mean Average Error =  0.13762704761216862
 ====
 Diff = 76192.6193, Hash Rate = 421367852302.1180 Expected Result = 12.9438.
 Current COV and iteration 99.9949998749938 1
@@ -1018,7 +1018,7 @@ Current COV and iteration 0.6550279084517024 7001
 Current COV and iteration 0.5003955220369413 8001
 Current COV and iteration 0.333835922237343 9001
 Average time =  12.626199286595325
-Mean Average Error =  0.1381992992092002
+Mean Average Error =  0.14009244029425774
 ====
 Diff = 76192.6193, Hash Rate = 422100615321.0580 Expected Result = 12.9213.
 Current COV and iteration 99.9949998749938 1
@@ -1032,7 +1032,7 @@ Current COV and iteration 0.6550422071120164 7001
 Current COV and iteration 0.5004105066680371 8001
 Current COV and iteration 0.33385369927141395 9001
 Average time =  12.594352768610195
-Mean Average Error =  0.1407159383049416
+Mean Average Error =  0.14261750503879217
 ====
 Diff = 76192.6193, Hash Rate = 513331110255.0440 Expected Result = 10.6249.
 Current COV and iteration 99.9949998749938 1
@@ -1046,7 +1046,7 @@ Current COV and iteration 0.6548825496548542 7001
 Current COV and iteration 0.5002393347606883 8001
 Current COV and iteration 0.3336239956364367 9001
 Average time =  10.509465946594657
-Mean Average Error =  0.14038328192468374
+Mean Average Error =  0.14225505901701285
 ====
 Diff = 76192.6193, Hash Rate = 533483460353.9410 Expected Result = 10.2235.
 Current COV and iteration 99.9949998749938 1
@@ -1060,7 +1060,7 @@ Current COV and iteration 0.6549587788247214 7001
 Current COV and iteration 0.5003296479612134 8001
 Current COV and iteration 0.33374380533443554 9001
 Average time =  10.145262859619296
-Mean Average Error =  0.1395761891773593
+Mean Average Error =  0.14141271798232458
 ====
 Diff = 76192.6193, Hash Rate = 456625972340.3280 Expected Result = 11.9443.
 Current COV and iteration 99.9949998749938 1
@@ -1074,7 +1074,7 @@ Current COV and iteration 0.6549669545020382 7001
 Current COV and iteration 0.5003300713852076 8001
 Current COV and iteration 0.333739090210665 9001
 Average time =  11.649024902490249
-Mean Average Error =  0.1415723290277746
+Mean Average Error =  0.14341093070346
 ====
 Diff = 76192.6193, Hash Rate = 436919101318.0220 Expected Result = 12.4830.
 Current COV and iteration 99.9949998749938 1
@@ -1088,7 +1088,7 @@ Current COV and iteration 0.6550308348774542 7001
 Current COV and iteration 0.5003917802289208 8001
 Current COV and iteration 0.33381747987856525 9001
 Average time =  12.134210087675434
-Mean Average Error =  0.1441953364112783
+Mean Average Error =  0.14604399457039724
 ====
 Diff = 76192.6193, Hash Rate = 515731493572.9460 Expected Result = 10.5754.
 Current COV and iteration 99.9949998749938 1
@@ -1102,7 +1102,7 @@ Current COV and iteration 0.6548889394248918 7001
 Current COV and iteration 0.5002460212881472 8001
 Current COV and iteration 0.33363185321813643 9001
 Average time =  10.464721472147215
-Mean Average Error =  0.14377637630429713
+Mean Average Error =  0.14559633043473127
 ====
 Diff = 76192.6193, Hash Rate = 576409497614.1540 Expected Result = 9.4622.
 Current COV and iteration 99.9949998749938 1
@@ -1116,7 +1116,7 @@ Current COV and iteration 0.655129807124153 7001
 Current COV and iteration 0.5005085698129392 8001
 Current COV and iteration 0.3339706044673224 9001
 Average time =  9.407744107744106
-Mean Average Error =  0.1426736542790082
+Mean Average Error =  0.1444570749574958
 ====
 Diff = 76192.6193, Hash Rate = 439924674502.9570 Expected Result = 12.3978.
 Current COV and iteration 99.9949998749938 1
@@ -1130,7 +1130,7 @@ Current COV and iteration 0.6550360639246136 7001
 Current COV and iteration 0.5004023887114337 8001
 Current COV and iteration 0.3338363341521146 9001
 Average time =  12.070338700536722
-Mean Average Error =  0.14492716214710905
+Mean Average Error =  0.14671638637114745
 ====
 Diff = 76192.6193, Hash Rate = 591265621356.8130 Expected Result = 9.2244.
 Current COV and iteration 99.9949998749938 1
@@ -1144,7 +1144,7 @@ Current COV and iteration 0.6551198559215262 7001
 Current COV and iteration 0.5004921342641667 8001
 Current COV and iteration 0.3339423957929669 9001
 Average time =  9.125320865419875
-Mean Average Error =  0.14437477627280804
+Mean Average Error =  0.14613544427613498
 ====
 Diff = 76192.6193, Hash Rate = 579288785557.8260 Expected Result = 9.4151.
 Current COV and iteration 99.9949998749938 1
@@ -1158,7 +1158,7 @@ Current COV and iteration 0.6551358668253936 7001
 Current COV and iteration 0.5005112755784581 8001
 Current COV and iteration 0.33397173646830103 9001
 Average time =  9.345767910124346
-Mean Average Error =  0.1434814109585562
+Mean Average Error =  0.14521010265685208
 ====
 Diff = 76192.6193, Hash Rate = 599065563860.7990 Expected Result = 8.3170.
 Current COV and iteration 99.9949998749938 1
@@ -1172,7 +1172,7 @@ Current COV and iteration 0.6550917324853132 7001
 Current COV and iteration 0.500464227565997 8001
 Current COV and iteration 0.33390851509688435 9001
 Average time =  8.995419541954195
-Mean Average Error =  0.14977480073497548
+Mean Average Error =  0.15155783407705853
 ====
 Diff = 68977.7846, Hash Rate = 470525744581.5360 Expected Result = 10.4938.
 Current COV and iteration 99.9949998749938 1
@@ -1186,7 +1186,7 @@ Current COV and iteration 0.654891038034193 7001
 Current COV and iteration 0.5002513476866404 8001
 Current COV and iteration 0.33364124023255737 9001
 Average time =  10.396594659465945
-Mean Average Error =  0.14916352794194154
+Mean Average Error =  0.1509183929765526
 ====
 Diff = 68977.7846, Hash Rate = 496767135313.0420 Expected Result = 9.9395.
 Current COV and iteration 99.9949998749938 1
@@ -1200,7 +1200,7 @@ Current COV and iteration 0.6549890981090306 7001
 Current COV and iteration 0.5003568433923614 8001
 Current COV and iteration 0.3337758359845093 9001
 Average time =  9.853290329032905
-Mean Average Error =  0.14843992039050652
+Mean Average Error =  0.15016596597644263
 ====
 Diff = 68977.7846, Hash Rate = 568450263774.7670 Expected Result = 8.6861.
 Current COV and iteration 99.9949998749938 1
@@ -1214,7 +1214,7 @@ Current COV and iteration 0.6549856379736027 7001
 Current COV and iteration 0.5003636742978548 8001
 Current COV and iteration 0.33379193291344783 9001
 Average time =  8.586451978531187
-Mean Average Error =  0.14788546699366908
+Mean Average Error =  0.14958529994761932
 ====
 Diff = 68977.7846, Hash Rate = 558239441521.5150 Expected Result = 8.8450.
 Current COV and iteration 99.9949998749938 1
@@ -1228,7 +1228,7 @@ Current COV and iteration 0.6550889235483284 7001
 Current COV and iteration 0.5004673249985075 8001
 Current COV and iteration 0.3339155621967544 9001
 Average time =  8.737075374204087
-Mean Average Error =  0.14743646877796399
+Mean Average Error =  0.14911188319589538
 ====
 Diff = 68977.7846, Hash Rate = 535175415373.5790 Expected Result = 9.2262.
 Current COV and iteration 99.9949998749938 1
@@ -1242,7 +1242,7 @@ Current COV and iteration 0.6551232476011231 7001
 Current COV and iteration 0.500496160722126 8001
 Current COV and iteration 0.3339481015757706 9001
 Average time =  9.115593225989265
-Mean Average Error =  0.147027249947217
+Mean Average Error =  0.14867924151965764
 ====
 Diff = 68977.7846, Hash Rate = 700223693942.8480 Expected Result = 7.0515.
 Current COV and iteration 99.9949998749938 1
@@ -1256,7 +1256,7 @@ Current COV and iteration 0.6550654452537387 7001
 Current COV and iteration 0.5004501204949631 8001
 Current COV and iteration 0.3339014912648879 9001
 Average time =  7.046154615461546
-Mean Average Error =  0.14547030637129651
+Mean Average Error =  0.14708664310875538
 ====
 Diff = 68977.7846, Hash Rate = 598643956051.8690 Expected Result = 8.2480.
 Current COV and iteration 99.9949998749938 1
@@ -1270,7 +1270,7 @@ Current COV and iteration 0.6550875159062453 7001
 Current COV and iteration 0.5004760467220835 8001
 Current COV and iteration 0.3339310294936824 9001
 Average time =  8.162672933960064
-Mean Average Error =  0.14481657549812957
+Mean Average Error =  0.14640796643766943
 ====
 Diff = 68977.7846, Hash Rate = 612791239510.8230 Expected Result = 8.0576.
 Current COV and iteration 99.9949998749938 1
@@ -1284,7 +1284,7 @@ Current COV and iteration 0.655151820701954 7001
 Current COV and iteration 0.5005475327792478 8001
 Current COV and iteration 0.33403304673025497 9001
 Average time =  7.951593492682602
-Mean Average Error =  0.1443992629370464
+Mean Average Error =  0.14596882014288387
 ====
 Diff = 68977.7846, Hash Rate = 600683960132.3650 Expected Result = 8.2200.
 Current COV and iteration 99.9949998749938 1
@@ -1298,7 +1298,7 @@ Current COV and iteration 0.6551111013216958 7001
 Current COV and iteration 0.5005034519712317 8001
 Current COV and iteration 0.3339712482888009 9001
 Average time =  8.125422542254224
-Mean Average Error =  0.14386924373288398
+Mean Average Error =  0.14541622484829134
 ====
 Diff = 68977.7846, Hash Rate = 612635252000.3750 Expected Result = 8.0596.
 Current COV and iteration 99.9949998749938 1
@@ -1312,7 +1312,7 @@ Current COV and iteration 0.6551456607444923 7001
 Current COV and iteration 0.5005409732790324 8001
 Current COV and iteration 0.3340251370659107 9001
 Average time =  7.957342400906757
-Mean Average Error =  0.14343122642088774
+Mean Average Error =  0.14495709053174824
 ====
 Diff = 82345.6441, Hash Rate = 676955268130.0120 Expected Result = 7.3959.
 Current COV and iteration 99.9949998749938 1
@@ -1326,7 +1326,7 @@ Current COV and iteration 0.6549804861692412 7001
 Current COV and iteration 0.5003566527395032 8001
 Current COV and iteration 0.3337823395579415 9001
 Average time =  8.588727206053939
-Mean Average Error =  0.15436243454206536
+Mean Average Error =  0.1559873022740871
 ====
 Diff = 82345.6441, Hash Rate = 602216267840.0650 Expected Result = 9.7881.
 Current COV and iteration 99.9949998749938 1
@@ -1340,7 +1340,7 @@ Current COV and iteration 0.6550503054509194 7001
 Current COV and iteration 0.5004202044553663 8001
 Current COV and iteration 0.3338545080734976 9001
 Average time =  9.695577891122445
-Mean Average Error =  0.1537249054115034
+Mean Average Error =  0.1553262065095399
 ====
 Diff = 82345.6441, Hash Rate = 601879643428.2580 Expected Result = 9.7935.
 Current COV and iteration 99.9949998749938 1
@@ -1354,7 +1354,7 @@ Current COV and iteration 0.6550825614388402 7001
 Current COV and iteration 0.5004544072880815 8001
 Current COV and iteration 0.333896899300493 9001
 Average time =  9.698268160149349
-Mean Average Error =  0.15312803739557634
+Mean Average Error =  0.15470667695635548
 ====
 Diff = 82345.6441, Hash Rate = 684547442282.5600 Expected Result = 8.6108.
 Current COV and iteration 99.9949998749938 1
@@ -1368,7 +1368,7 @@ Current COV and iteration 0.6550185338186395 7001
 Current COV and iteration 0.5004001526261832 8001
 Current COV and iteration 0.333837812305082 9001
 Average time =  8.521788845551223
-Mean Average Error =  0.15248039211328543
+Mean Average Error =  0.15403631448178834
 ====
 Diff = 82345.6441, Hash Rate = 633107754292.6680 Expected Result = 9.3105.
 Current COV and iteration 99.9949998749938 1
@@ -1382,7 +1382,7 @@ Current COV and iteration 0.6551130639418796 7001
 Current COV and iteration 0.5004810929724295 8001
 Current COV and iteration 0.33392655435750995 9001
 Average time =  9.202486915358202
-Mean Average Error =  0.15203571903857055
+Mean Average Error =  0.15357143337229348
 ====
 Diff = 82345.6441, Hash Rate = 707760989473.0340 Expected Result = 8.3284.
 Current COV and iteration 99.9949998749938 1
@@ -1396,7 +1396,7 @@ Current COV and iteration 0.6550475612443392 7001
 Current COV and iteration 0.5004320920763 8001
 Current COV and iteration 0.3338738734047801 9001
 Average time =  8.23878054472114
-Mean Average Error =  0.15141773622906848
+Mean Average Error =  0.15293191359135916
 ====
 Diff = 82345.6441, Hash Rate = 666233416480.2750 Expected Result = 8.8475.
 Current COV and iteration 99.9949998749938 1
@@ -1410,7 +1410,7 @@ Current COV and iteration 0.6549883468968516 7001
 Current COV and iteration 0.5003589147668501 8001
 Current COV and iteration 0.3337800518190964 9001
 Average time =  8.720648731539821
-Mean Average Error =  0.15117688850584407
+Mean Average Error =  0.15267368938213954
 ====
 Diff = 82345.6441, Hash Rate = 670027676921.1830 Expected Result = 8.7974.
 Current COV and iteration 99.9949998749938 1
@@ -1424,7 +1424,7 @@ Current COV and iteration 0.6549873741335993 7001
 Current COV and iteration 0.5003634078216298 8001
 Current COV and iteration 0.3337885951763704 9001
 Average time =  8.681031436476982
-Mean Average Error =  0.15083894360309819
+Mean Average Error =  0.15231775677567758
 ====
 Diff = 82345.6441, Hash Rate = 798867565476.1820 Expected Result = 7.3786.
 Current COV and iteration 99.9949998749938 1
@@ -1438,7 +1438,7 @@ Current COV and iteration 0.6552502208895341 7001
 Current COV and iteration 0.5006446017879694 8001
 Current COV and iteration 0.3341520448853329 9001
 Average time =  7.343867720105345
-Mean Average Error =  0.1497225333751324
+Mean Average Error =  0.15117615020401717
 ====
 Diff = 82345.6441, Hash Rate = 648240380201.6390 Expected Result = 9.0931.
 Current COV and iteration 99.9949998749938 1
@@ -1452,7 +1452,7 @@ Current COV and iteration 0.6550558217670794 7001
 Current COV and iteration 0.5004236462655303 8001
 Current COV and iteration 0.3338547593790718 9001
 Average time =  8.96876854352102
-Mean Average Error =  0.14948071359516904
+Mean Average Error =  0.15091802814896874
 ====
 Diff = 82345.6441, Hash Rate = 558373051321.3480 Expected Result = 10.5566.
 Current COV and iteration 99.9949998749938 1
@@ -1466,7 +1466,7 @@ Current COV and iteration 0.6548878876158188 7001
 Current COV and iteration 0.500245952496874 8001
 Current COV and iteration 0.33363313590718524 9001
 Average time =  10.435196853018635
-Mean Average Error =  0.14921583089126522
+Mean Average Error =  0.1506369340426106
 ====
 Diff = 82345.6441, Hash Rate = 709254173426.1580 Expected Result = 8.3109.
 Current COV and iteration 99.9949998749938 1
@@ -1480,7 +1480,7 @@ Current COV and iteration 0.6550433660821041 7001
 Current COV and iteration 0.500425210089865 8001
 Current COV and iteration 0.3338632998672284 9001
 Average time =  8.22066539987332
-Mean Average Error =  0.14866460443552143
+Mean Average Error =  0.15006710070378107
 ====
 Diff = 82345.6441, Hash Rate = 736637307112.7060 Expected Result = 8.0019.
 Current COV and iteration 99.9949998749938 1
@@ -1494,7 +1494,7 @@ Current COV and iteration 0.6552259591033688 7001
 Current COV and iteration 0.5006246658913096 8001
 Current COV and iteration 0.3341273680136468 9001
 Average time =  7.889577291062439
-Mean Average Error =  0.14832810540313288
+Mean Average Error =  0.1497143493788631
 ====
 Diff = 92347.5910, Hash Rate = 661416356802.2720 Expected Result = 9.6800.
 Current COV and iteration 99.9949998749938 1
@@ -1508,7 +1508,7 @@ Current COV and iteration 0.6549691117783395 7001
 Current COV and iteration 0.500339669586154 8001
 Current COV and iteration 0.33375800157859686 9001
 Average time =  9.912379571290463
-Mean Average Error =  0.1490992197690717
+Mean Average Error =  0.1504797681002668
 ====
 Diff = 92347.5910, Hash Rate = 701282471469.8960 Expected Result = 9.4263.
 Current COV and iteration 99.9949998749938 1
@@ -1522,7 +1522,7 @@ Current COV and iteration 0.6551530049012187 7001
 Current COV and iteration 0.50053001891401 8001
 Current COV and iteration 0.3339955533899805 9001
 Average time =  9.358102476914357
-Mean Average Error =  0.14836374979922237
+Mean Average Error =  0.14972488511848128
 ====
 Diff = 92347.5910, Hash Rate = 666402622366.2330 Expected Result = 9.9197.
 Current COV and iteration 99.9949998749938 1
@@ -1536,7 +1536,7 @@ Current COV and iteration 0.654997324827972 7001
 Current COV and iteration 0.500365584095824 8001
 Current COV and iteration 0.33378720358858843 9001
 Average time =  9.829411274460778
-Mean Average Error =  0.14784055138246563
+Mean Average Error =  0.1491845563950335
 ====
 Diff = 92347.5910, Hash Rate = 672866935194.4140 Expected Result = 9.8244.
 Current COV and iteration 99.9949998749938 1
@@ -1550,7 +1550,7 @@ Current COV and iteration 0.6550398203796906 7001
 Current COV and iteration 0.500411204010985 8001
 Current COV and iteration 0.33384533972182473 9001
 Average time =  9.741367470080343
-Mean Average Error =  0.14726190833369054
+Mean Average Error =  0.1485885921925526
 ====
 Diff = 92347.5910, Hash Rate = 803596944889.2120 Expected Result = 8.2261.
 Current COV and iteration 99.9949998749938 1
@@ -1564,7 +1564,7 @@ Current COV and iteration 0.6551005126775787 7001
 Current COV and iteration 0.5004927986206936 8001
 Current COV and iteration 0.33395820567661705 9001
 Average time =  8.135371870520386
-Mean Average Error =  0.14676160940577837
+Mean Average Error =  0.14807198091832996
 ====
 Diff = 92347.5910, Hash Rate = 791327454780.4380 Expected Result = 8.3537.
 Current COV and iteration 99.9949998749938 1
@@ -1578,7 +1578,7 @@ Current COV and iteration 0.6550109358270612 7001
 Current COV and iteration 0.5003930129617905 8001
 Current COV and iteration 0.3338274048285702 9001
 Average time =  8.280914758142481
-Mean Average Error =  0.14611269390096907
+Mean Average Error =  0.14740572659035817
 ====
 Diff = 92347.5910, Hash Rate = 750017988170.7180 Expected Result = 8.8138.
 Current COV and iteration 99.9949998749938 1
@@ -1592,7 +1592,7 @@ Current COV and iteration 0.6549683123271843 7001
 Current COV and iteration 0.5003394336856725 8001
 Current COV and iteration 0.3337576405966082 9001
 Average time =  8.703460346034603
-Mean Average Error =  0.1458016239884858
+Mean Average Error =  0.1470805856024199
 ====
 Diff = 92347.5910, Hash Rate = 891021535056.7340 Expected Result = 7.4190.
 Current COV and iteration 99.9949998749938 1
@@ -1606,7 +1606,7 @@ Current COV and iteration 0.6552654971881128 7001
 Current COV and iteration 0.500669737370698 8001
 Current COV and iteration 0.33419058144239516 9001
 Average time =  7.385250191685835
-Mean Average Error =  0.1448356600602589
+Mean Average Error =  0.146095100582522
 ====
 Diff = 92347.5910, Hash Rate = 879165507436.4270 Expected Result = 7.5191.
 Current COV and iteration 99.9949998749938 1
@@ -1620,7 +1620,7 @@ Current COV and iteration 0.6551964233836763 7001
 Current COV and iteration 0.5005904810056129 8001
 Current COV and iteration 0.3340848332507556 9001
 Average time =  7.473769043571023
-Mean Average Error =  0.14398519250785477
+Mean Average Error =  0.14522644416740524
 ====
 Diff = 92347.5910, Hash Rate = 840940640810.7950 Expected Result = 7.8608.
 Current COV and iteration 99.9949998749938 1
@@ -1634,7 +1634,7 @@ Current COV and iteration 0.6552060317772234 7001
 Current COV and iteration 0.5005969219117553 8001
 Current COV and iteration 0.3340899240174908 9001
 Average time =  7.7790029002900285
-Mean Average Error =  0.1434581747722795
+Mean Average Error =  0.14468431301819643
 ====
 Diff = 92347.5910, Hash Rate = 751349144230.2850 Expected Result = 8.7982.
 Current COV and iteration 99.9949998749938 1
@@ -1648,7 +1648,7 @@ Current COV and iteration 0.6549806482257169 7001
 Current COV and iteration 0.5003541039069025 8001
 Current COV and iteration 0.33377627144576566 9001
 Average time =  8.694586125279194
-Mean Average Error =  0.1431233487214268
+Mean Average Error =  0.14433625845635414
 ====
 Diff = 92347.5910, Hash Rate = 924340491041.8770 Expected Result = 7.1516.
 Current COV and iteration 99.9949998749938 1
@@ -1662,7 +1662,7 @@ Current COV and iteration 0.6551383559901957 7001
 Current COV and iteration 0.5005356677074667 8001
 Current COV and iteration 0.33402226884898395 9001
 Average time =  7.133646698003133
-Mean Average Error =  0.14208026499872214
+Mean Average Error =  0.1432742168054341
 ====
 Diff = 109670.1333, Hash Rate = 1002728704661.1600 Expected Result = 7.6852.
 Current COV and iteration 99.9949998749938 1
@@ -1676,7 +1676,7 @@ Current COV and iteration 0.6552187193733945 7001
 Current COV and iteration 0.5006114836946561 8001
 Current COV and iteration 0.33410943522747233 9001
 Average time =  7.754895489548955
-Mean Average Error =  0.14148204371401332
+Mean Average Error =  0.14266106074496346
 ====
 Diff = 109670.1333, Hash Rate = 976492921514.0610 Expected Result = 8.0395.
 Current COV and iteration 99.9949998749938 1
@@ -1690,7 +1690,7 @@ Current COV and iteration 0.6551627458241095 7001
 Current COV and iteration 0.5005568859842453 8001
 Current COV and iteration 0.33404205856829705 9001
 Average time =  7.9468563523018965
-Mean Average Error =  0.14108172899257146
+Mean Average Error =  0.1422476936949894
 ====
 Diff = 109670.1333, Hash Rate = 1072142234575.9600 Expected Result = 7.3223.
 Current COV and iteration 99.9949998749938 1
@@ -1704,7 +1704,7 @@ Current COV and iteration 0.655211713105524 7001
 Current COV and iteration 0.5006032676614408 8001
 Current COV and iteration 0.3340998133053781 9001
 Average time =  7.307384071740507
-Mean Average Error =  0.14005599077522937
+Mean Average Error =  0.14120399069961648
 ====
 Diff = 109670.1333, Hash Rate = 1068316885654.3300 Expected Result = 7.3485.
 Current COV and iteration 99.9949998749938 1
@@ -1718,7 +1718,7 @@ Current COV and iteration 0.6552301628221702 7001
 Current COV and iteration 0.5006231572935197 8001
 Current COV and iteration 0.3341247715960658 9001
 Average time =  7.333660032669934
-Mean Average Error =  0.13904618413454256
+Mean Average Error =  0.1401766409161242
 ====
 Diff = 109670.1333, Hash Rate = 1074463748643.1000 Expected Result = 7.3064.
 Current COV and iteration 99.9949998749938 1
@@ -1732,7 +1732,7 @@ Current COV and iteration 0.6552324779053649 7001
 Current COV and iteration 0.5006283457898609 8001
 Current COV and iteration 0.33413254020944705 9001
 Average time =  7.293177651098444
-Mean Average Error =  0.13803959345267866
+Mean Average Error =  0.13915281598052284
 ====
 Diff = 109670.1333, Hash Rate = 1193528679595.7000 Expected Result = 6.5775.
 Current COV and iteration 99.9949998749938 1
@@ -1746,7 +1746,7 @@ Current COV and iteration 0.6553463063038694 7001
 Current COV and iteration 0.5007538658530922 8001
 Current COV and iteration 0.3342718479693487 9001
 Average time =  6.56981031436477
-Mean Average Error =  0.1370050703747624
+Mean Average Error =  0.1381011109377605
 ====
 Diff = 109670.1333, Hash Rate = 1192867970225.3400 Expected Result = 6.5812.
 Current COV and iteration 99.9949998749938 1
@@ -1760,7 +1760,7 @@ Current COV and iteration 0.6553743380040201 7001
 Current COV and iteration 0.5007841703685856 8001
 Current COV and iteration 0.33431009924335586 9001
 Average time =  6.57095209520952
-Mean Average Error =  0.13600698245677592
+Mean Average Error =  0.1370864029524646
 ====
 Diff = 109670.1333, Hash Rate = 1163103237403.5800 Expected Result = 6.7496.
 Current COV and iteration 99.9949998749938 1
@@ -1774,7 +1774,7 @@ Current COV and iteration 0.6552249285311569 7001
 Current COV and iteration 0.5006266417581887 8001
 Current COV and iteration 0.33412124757765993 9001
 Average time =  6.753473680701404
-Mean Average Error =  0.13497469103681206
+Mean Average Error =  0.1360374838796216
 ====
 Diff = 109670.1333, Hash Rate = 1196005684043.7900 Expected Result = 6.5639.
 Current COV and iteration 99.9949998749938 1
@@ -1788,7 +1788,7 @@ Current COV and iteration 0.6553100682537119 7001
 Current COV and iteration 0.5007217849987399 8001
 Current COV and iteration 0.3342373309624505 9001
 Average time =  6.54979497949795
-Mean Average Error =  0.1340377168466201
+Mean Average Error =  0.13508488650948433
 ====
 Diff = 157416.4018, Hash Rate = 1381114163413.1500 Expected Result = 5.9844.
 Current COV and iteration 99.9949998749938 1
@@ -1802,7 +1802,7 @@ Current COV and iteration 0.6550806503854252 7001
 Current COV and iteration 0.5004717662853724 8001
 Current COV and iteration 0.3339341706792289 9001
 Average time =  8.077912791279127
-Mean Average Error =  0.14911060203456247
+Mean Average Error =  0.1502664981743653
 ====
 Diff = 157416.4018, Hash Rate = 1422219535517.6900 Expected Result = 7.9230.
 Current COV and iteration 99.9949998749938 1
@@ -1816,7 +1816,7 @@ Current COV and iteration 0.6552199086354501 7001
 Current COV and iteration 0.5006196855818685 8001
 Current COV and iteration 0.3341240054222247 9001
 Average time =  7.847881454812147
-Mean Average Error =  0.14854577717313722
+Mean Average Error =  0.14968843699754597
 ====
 Diff = 157416.4018, Hash Rate = 1497023856372.4200 Expected Result = 7.5271.
 Current COV and iteration 99.9949998749938 1
@@ -1830,7 +1830,7 @@ Current COV and iteration 0.655324098505133 7001
 Current COV and iteration 0.5007234096604736 8001
 Current COV and iteration 0.33424872637373004 9001
 Average time =  7.4896356302296905
-Mean Average Error =  0.14770425135947943
+Mean Average Error =  0.14883176472863574
 ====
 Diff = 157416.4018, Hash Rate = 1319909576669.4800 Expected Result = 8.5372.
 Current COV and iteration 99.9949998749938 1
@@ -1844,7 +1844,7 @@ Current COV and iteration 0.654956886155326 7001
 Current COV and iteration 0.5003332449040025 8001
 Current COV and iteration 0.33375279009097647 9001
 Average time =  8.478186151948528
-Mean Average Error =  0.1470374062218252
+Mean Average Error =  0.14815132596592995
 ====
 Diff = 157416.4018, Hash Rate = 1617291819944.5400 Expected Result = 6.9674.
 Current COV and iteration 99.9949998749938 1
@@ -1858,7 +1858,7 @@ Current COV and iteration 0.6550701508292686 7001
 Current COV and iteration 0.5004615405699658 8001
 Current COV and iteration 0.33392170728633175 9001
 Average time =  6.981433143314331
-Mean Average Error =  0.1460448370956499
+Mean Average Error =  0.14714291857757208
 ====
 Diff = 157416.4018, Hash Rate = 1893810846240.3800 Expected Result = 5.9501.
 Current COV and iteration 99.9949998749938 1
@@ -1872,7 +1872,7 @@ Current COV and iteration 0.6554102499256096 7001
 Current COV and iteration 0.5008609968770398 8001
 Current COV and iteration 0.3344363835746742 9001
 Average time =  5.933515018168483
-Mean Average Error =  0.14508587520480448
+Mean Average Error =  0.14616860561678063
 ====
 Diff = 157416.4018, Hash Rate = 1730861994646.4500 Expected Result = 6.5102.
 Current COV and iteration 99.9949998749938 1
@@ -1886,7 +1886,7 @@ Current COV and iteration 0.6553252779057226 7001
 Current COV and iteration 0.5007394070626303 8001
 Current COV and iteration 0.3342604677255231 9001
 Average time =  6.499879987998799
-Mean Average Error =  0.1440949497400721
+Mean Average Error =  0.1451623197381467
 ====
 Diff = 157416.4018, Hash Rate = 1944847547921.1800 Expected Result = 5.7939.
 Current COV and iteration 99.99499987499372 1
@@ -1900,7 +1900,7 @@ Current COV and iteration 0.6555445783928404 7001
 Current COV and iteration 0.5009810444889482 8001
 Current COV and iteration 0.33457781546875315 9001
 Average time =  5.793342667600094
-Mean Average Error =  0.14304722990547236
+Mean Average Error =  0.14409904777242435
 ====
 Diff = 157416.4018, Hash Rate = 1986978118739.4200 Expected Result = 5.6711.
 Current COV and iteration 99.99499987499372 1
@@ -1914,7 +1914,7 @@ Current COV and iteration 0.6554462180133197 7001
 Current COV and iteration 0.5008572318699714 8001
 Current COV and iteration 0.3344196830609886 9001
 Average time =  5.681959862652932
-Mean Average Error =  0.14208935043262785
+Mean Average Error =  0.14312649897593172
 ====
 Diff = 244112.4878, Hash Rate = 2347740106411.6100 Expected Result = 4.9557.
 Current COV and iteration 99.9949998749938 1
@@ -1928,7 +1928,7 @@ Current COV and iteration 0.6552492241782517 7001
 Current COV and iteration 0.5006515628663394 8001
 Current COV and iteration 0.33416715549863757 9001
 Average time =  7.395786245291195
-Mean Average Error =  0.15862170219420027
+Mean Average Error =  0.15977113481879593
 ====
 Diff = 244112.4878, Hash Rate = 2058178040301.8600 Expected Result = 8.4902.
 Current COV and iteration 99.9949998749938 1
@@ -1942,7 +1942,7 @@ Current COV and iteration 0.6549816975756515 7001
 Current COV and iteration 0.5003598200708974 8001
 Current COV and iteration 0.3337872755486061 9001
 Average time =  8.410862752941961
-Mean Average Error =  0.15805538465751343
+Mean Average Error =  0.15919247375576892
 ====
 Diff = 244112.4878, Hash Rate = 2676399444645.9100 Expected Result = 6.5290.
 Current COV and iteration 99.9949998749938 1
@@ -1956,7 +1956,7 @@ Current COV and iteration 0.6553252779057226 7001
 Current COV and iteration 0.5007394070626303 8001
 Current COV and iteration 0.3342604677255231 9001
 Average time =  6.499879987998799
-Mean Average Error =  0.15714094939044737
+Mean Average Error =  0.15826338474323629
 ====
 Diff = 244112.4878, Hash Rate = 2666560309567.7300 Expected Result = 6.5531.
 Current COV and iteration 99.9949998749938 1
@@ -1970,7 +1970,7 @@ Current COV and iteration 0.6553088717338567 7001
 Current COV and iteration 0.5007216822918618 8001
 Current COV and iteration 0.3342371788721839 9001
 Average time =  6.525924259092576
-Mean Average Error =  0.15622570144338382
+Mean Average Error =  0.15733368514156384
 ====
 Diff = 244112.4878, Hash Rate = 3058879284365.5000 Expected Result = 5.7126.
 Current COV and iteration 99.99499987499372 1
@@ -1984,7 +1984,7 @@ Current COV and iteration 0.6554900341202494 7001
 Current COV and iteration 0.5009084363702402 8001
 Current COV and iteration 0.33448681763355465 9001
 Average time =  5.711669500283362
-Mean Average Error =  0.15513972101172827
+Mean Average Error =  0.15623225425828974
 ====
 Diff = 244112.4878, Hash Rate = 3471705799788.0600 Expected Result = 5.0333.
 Current COV and iteration 99.99499987499372 1
@@ -1998,7 +1998,7 @@ Current COV and iteration 0.6553931580025179 7001
 Current COV and iteration 0.5007724222932208 8001
 Current COV and iteration 0.33432894510957245 9001
 Average time =  5.0335000166683335
-Mean Average Error =  0.1540637508426769
+Mean Average Error =  0.15514111972968864
 ====
 Diff = 244112.4878, Hash Rate = 3628838383910.5200 Expected Result = 4.8154.
 Current COV and iteration 99.99499987499372 1
@@ -2012,7 +2012,7 @@ Current COV and iteration 0.655338401718374 7001
 Current COV and iteration 0.5007244437504114 8001
 Current COV and iteration 0.3342697535874243 9001
 Average time =  4.815503216988366
-Mean Average Error =  0.15300195405747474
+Mean Average Error =  0.15406446762731832
 ====
 Diff = 244112.4878, Hash Rate = 3729557512068.3900 Expected Result = 4.6853.
 Current COV and iteration 99.99499987499372 1
@@ -2026,7 +2026,7 @@ Current COV and iteration 0.65543544866654 7001
 Current COV and iteration 0.5008247258189881 8001
 Current COV and iteration 0.33437135554945113 9001
 Average time =  4.672613928059473
-Mean Average Error =  0.15204088637174223
+Mean Average Error =  0.15308944420878876
 ====
 Diff = 434877.0455, Hash Rate = 4075562138630.5100 Expected Result = 4.8762.
 Current COV and iteration 99.9949998749938 1
@@ -2040,7 +2040,7 @@ Current COV and iteration 0.6552290561448669 7001
 Current COV and iteration 0.5006141737304258 8001
 Current COV and iteration 0.33410266827974255 9001
 Average time =  7.613224655798913
-Mean Average Error =  0.1696258099732876
+Mean Average Error =  0.17078763058954302
 ====
 Diff = 434877.0455, Hash Rate = 3607008984571.6700 Expected Result = 8.6303.
 Current COV and iteration 99.9949998749938 1
@@ -2054,7 +2054,7 @@ Current COV and iteration 0.6549996073605149 7001
 Current COV and iteration 0.5003789105943375 8001
 Current COV and iteration 0.33381160505375507 9001
 Average time =  8.574010734406775
-Mean Average Error =  0.16886002251126017
+Mean Average Error =  0.17000873014739118
 ====
 Diff = 434877.0455, Hash Rate = 3360686246328.3100 Expected Result = 9.2629.
 Current COV and iteration 99.9949998749938 1
@@ -2068,7 +2068,7 @@ Current COV and iteration 0.6551095152047237 7001
 Current COV and iteration 0.5004766003593062 8001
 Current COV and iteration 0.33392046569879497 9001
 Average time =  9.204558789212253
-Mean Average Error =  0.16811828551982722
+Mean Average Error =  0.16925421988144765
 ====
 Diff = 434877.0455, Hash Rate = 3930840813034.2900 Expected Result = 7.9194.
 Current COV and iteration 99.9949998749938 1
@@ -2082,7 +2082,7 @@ Current COV and iteration 0.6552040051561333 7001
 Current COV and iteration 0.5006011079866097 8001
 Current COV and iteration 0.33409864852035936 9001
 Average time =  7.867693436010268
-Mean Average Error =  0.16734220737629324
+Mean Average Error =  0.1684653094392214
 ====
 Diff = 434877.0455, Hash Rate = 3323879196200.8100 Expected Result = 9.3655.
 Current COV and iteration 99.9949998749938 1
@@ -2096,7 +2096,7 @@ Current COV and iteration 0.6551541114590221 7001
 Current COV and iteration 0.5005286955444541 8001
 Current COV and iteration 0.3339917954234348 9001
 Average time =  9.326004267093376
-Mean Average Error =  0.16649554198245436
+Mean Average Error =  0.16760551226233739
 ====
 Diff = 434877.0455, Hash Rate = 3208587041026.3700 Expected Result = 9.7020.
 Current COV and iteration 99.9949998749938 1
@@ -2110,7 +2110,7 @@ Current COV and iteration 0.6550338889213378 7001
 Current COV and iteration 0.5004017696564518 8001
 Current COV and iteration 0.33383017209678506 9001
 Average time =  9.664519785311864
-Mean Average Error =  0.16564675693446543
+Mean Average Error =  0.1667437553247599
 ====
 Diff = 434877.0455, Hash Rate = 4069337645203.2500 Expected Result = 7.6498.
 Current COV and iteration 99.9949998749938 1
@@ -2124,7 +2124,7 @@ Current COV and iteration 0.6552140120977629 7001
 Current COV and iteration 0.5005973686544741 8001
 Current COV and iteration 0.33408131013194714 9001
 Average time =  7.624435776911025
-Mean Average Error =  0.16472987762828575
+Mean Average Error =  0.1658136268232087
 ====
 Diff = 434877.0455, Hash Rate = 4114583482489.4500 Expected Result = 7.5657.
 Current COV and iteration 99.9949998749938 1
@@ -2138,7 +2138,7 @@ Current COV and iteration 0.6552641311611627 7001
 Current COV and iteration 0.5006590054074969 8001
 Current COV and iteration 0.3341675515939881 9001
 Average time =  7.547876454312098
-Mean Average Error =  0.16377594040789364
+Mean Average Error =  0.16484637139095176
 ====
 Diff = 434877.0455, Hash Rate = 4349238642994.1600 Expected Result = 7.1575.
 Current COV and iteration 99.9949998749938 1
@@ -2152,7 +2152,7 @@ Current COV and iteration 0.6551786120226163 7001
 Current COV and iteration 0.5005795360355213 8001
 Current COV and iteration 0.33408204297618604 9001
 Average time =  7.174545787912124
-Mean Average Error =  0.16282929426275966
+Mean Average Error =  0.16388662734238796
 ====
 Diff = 434877.0455, Hash Rate = 4849584131400.5800 Expected Result = 6.4190.
 Current COV and iteration 99.9949998749938 1
@@ -2166,7 +2166,7 @@ Current COV and iteration 0.65538203698569 7001
 Current COV and iteration 0.5008035727931314 8001
 Current COV and iteration 0.3343423397143428 9001
 Average time =  6.435198519851984
-Mean Average Error =  0.1618893534011521
+Mean Average Error =  0.16293380084244988
 ====
 Diff = 434877.0455, Hash Rate = 4488669098809.1900 Expected Result = 6.9352.
 Current COV and iteration 99.9949998749938 1
@@ -2180,7 +2180,7 @@ Current COV and iteration 0.6550774492000987 7001
 Current COV and iteration 0.5004698221483893 8001
 Current COV and iteration 0.33393247403408893 9001
 Average time =  6.9722972297229715
-Mean Average Error =  0.1610944991102083
+Mean Average Error =  0.16212715615578654
 ====
 Diff = 567269.5302, Hash Rate = 5630972423472.4700 Expected Result = 6.1567.
 Current COV and iteration 99.9949998749938 1
@@ -2194,7 +2194,7 @@ Current COV and iteration 0.6552085370157068 7001
 Current COV and iteration 0.5006071380901707 8001
 Current COV and iteration 0.3341137062040366 9001
 Average time =  7.187752108544188
-Mean Average Error =  0.16660055992941067
+Mean Average Error =  0.16766170999265534
 ====
 Diff = 567269.5302, Hash Rate = 4777152702487.0200 Expected Result = 8.5002.
 Current COV and iteration 99.9949998749938 1
@@ -2208,7 +2208,7 @@ Current COV and iteration 0.6549725438045226 7001
 Current COV and iteration 0.5003504426719702 8001
 Current COV and iteration 0.33377620123602014 9001
 Average time =  8.425054172083875
-Mean Average Error =  0.16602537293561642
+Mean Average Error =  0.16707616643520892
 ====
 Diff = 567269.5302, Hash Rate = 5261966107612.7800 Expected Result = 7.7170.
 Current COV and iteration 99.9949998749938 1
@@ -2222,7 +2222,7 @@ Current COV and iteration 0.6551888137237571 7001
 Current COV and iteration 0.5005700116774446 8001
 Current COV and iteration 0.334045813645211 9001
 Average time =  7.6457379071240466
-Mean Average Error =  0.1654331024352435
+Mean Average Error =  0.16647356219898718
 ====
 Diff = 567269.5302, Hash Rate = 6216888183885.4700 Expected Result = 6.5317.
 Current COV and iteration 99.9949998749938 1
@@ -2236,7 +2236,7 @@ Current COV and iteration 0.6553201178622203 7001
 Current COV and iteration 0.500734771337444 8001
 Current COV and iteration 0.33425569718280707 9001
 Average time =  6.503570357035703
-Mean Average Error =  0.16458028591679041
+Mean Average Error =  0.16560891270377037
 ====
 Diff = 567269.5302, Hash Rate = 6276780381867.7100 Expected Result = 6.4694.
 Current COV and iteration 99.9949998749938 1
@@ -2250,7 +2250,7 @@ Current COV and iteration 0.6554213395906242 7001
 Current COV and iteration 0.5008442983851854 8001
 Current COV and iteration 0.33439173984778153 9001
 Average time =  6.452316898356502
-Mean Average Error =  0.163669809470659
+Mean Average Error =  0.16468639213817862
 ====
 Diff = 567269.5302, Hash Rate = 7162801173353.6000 Expected Result = 5.6691.
 Current COV and iteration 99.99499987499372 1
@@ -2264,7 +2264,7 @@ Current COV and iteration 0.6554451515834493 7001
 Current COV and iteration 0.5008561567774289 8001
 Current COV and iteration 0.3344192389021438 9001
 Average time =  5.665044837817115
-Mean Average Error =  0.16269057850570334
+Mean Average Error =  0.16369484133598547
 ====
 Diff = 567269.5302, Hash Rate = 6549926741145.9300 Expected Result = 6.1996.
 Current COV and iteration 99.9949998749938 1
@@ -2278,7 +2278,7 @@ Current COV and iteration 0.6553176196315443 7001
 Current COV and iteration 0.5007549026475829 8001
 Current COV and iteration 0.3342921069056669 9001
 Average time =  6.185623562356236
-Mean Average Error =  0.16178378496386225
+Mean Average Error =  0.16277632352192276
 ====
 Diff = 567269.5302, Hash Rate = 6381259099743.0300 Expected Result = 6.3634.
 Current COV and iteration 99.9949998749938 1
@@ -2292,7 +2292,7 @@ Current COV and iteration 0.6552958739362017 7001
 Current COV and iteration 0.5007174421987808 8001
 Current COV and iteration 0.3342368853452348 9001
 Average time =  6.338783878387839
-Mean Average Error =  0.16095246579203376
+Mean Average Error =  0.16193388326637542
 ====
 Diff = 567269.5302, Hash Rate = 6954236477027.2100 Expected Result = 5.8391.
 Current COV and iteration 99.9949998749938 1
@@ -2306,7 +2306,7 @@ Current COV and iteration 0.6552499832534339 7001
 Current COV and iteration 0.5006860696561384 8001
 Current COV and iteration 0.3342255077330468 9001
 Average time =  5.822285561889523
-Mean Average Error =  0.1600841644204581
+Mean Average Error =  0.16105437147755178
 ====
 Diff = 876954.4935, Hash Rate = 9545226420501.7200 Expected Result = 5.1615.
 Current COV and iteration 99.9949998749938 1
@@ -2320,7 +2320,7 @@ Current COV and iteration 0.6553166668178437 7001
 Current COV and iteration 0.5007318230022603 8001
 Current COV and iteration 0.33425143181401795 9001
 Average time =  6.533551688502183
-Mean Average Error =  0.16734145498382172
+Mean Average Error =  0.16834953603794114
 ====
 Diff = 876954.4935, Hash Rate = 7880970364189.4700 Expected Result = 7.9654.
 Current COV and iteration 99.9949998749938 1
@@ -2334,7 +2334,7 @@ Current COV and iteration 0.6552199086354501 7001
 Current COV and iteration 0.5006196855818685 8001
 Current COV and iteration 0.3341240054222247 9001
 Average time =  7.847881454812147
-Mean Average Error =  0.16704489004456
+Mean Average Error =  0.16804515884722204
 ====
 Diff = 876954.4935, Hash Rate = 8078031729813.6500 Expected Result = 7.7711.
 Current COV and iteration 99.9949998749938 1
@@ -2348,7 +2348,7 @@ Current COV and iteration 0.6552016114967167 7001
 Current COV and iteration 0.5005903147723021 8001
 Current COV and iteration 0.33407737233793977 9001
 Average time =  7.6697869786978705
-Mean Average Error =  0.1666559440756699
+Mean Average Error =  0.16764794374278696
 ====
 Diff = 876954.4935, Hash Rate = 8657387393503.6700 Expected Result = 7.2510.
 Current COV and iteration 99.9949998749938 1
@@ -2362,7 +2362,7 @@ Current COV and iteration 0.6552692615241182 7001
 Current COV and iteration 0.5006701475088894 8001
 Current COV and iteration 0.33418759024882844 9001
 Average time =  7.208215821582158
-Mean Average Error =  0.16592728663062384
+Mean Average Error =  0.16690910489471036
 ====
 Diff = 876954.4935, Hash Rate = 9642922332729.8100 Expected Result = 6.5099.
 Current COV and iteration 99.9949998749938 1
@@ -2376,7 +2376,7 @@ Current COV and iteration 0.6553816109881371 7001
 Current COV and iteration 0.500795502455768 8001
 Current COV and iteration 0.33432723221916805 9001
 Average time =  6.470268693536021
-Mean Average Error =  0.16518871364719317
+Mean Average Error =  0.16616041196276488
 ====
 Diff = 876954.4935, Hash Rate = 10202565965720.1000 Expected Result = 6.1528.
 Current COV and iteration 99.9949998749938 1
@@ -2390,7 +2390,7 @@ Current COV and iteration 0.6553913548423385 7001
 Current COV and iteration 0.5008462995911575 8001
 Current COV and iteration 0.3344176095191709 9001
 Average time =  6.112816281628162
-Mean Average Error =  0.1644607776281504
+Mean Average Error =  0.16542253656164838
 ====
 Diff = 876954.4935, Hash Rate = 11068521134580.0000 Expected Result = 5.6715.
 Current COV and iteration 99.99499987499372 1
@@ -2404,7 +2404,7 @@ Current COV and iteration 0.6554706378205104 7001
 Current COV and iteration 0.5008858590490299 8001
 Current COV and iteration 0.33445974164483466 9001
 Average time =  5.651175117511752
-Mean Average Error =  0.16362762216491397
+Mean Average Error =  0.1645789455495937
 ====
 Diff = 876954.4935, Hash Rate = 11286276347587.1000 Expected Result = 5.5621.
 Current COV and iteration 99.99499987499372 1
@@ -2418,7 +2418,7 @@ Current COV and iteration 0.655480243248285 7001
 Current COV and iteration 0.5009022771031525 8001
 Current COV and iteration 0.33450154339575233 9001
 Average time =  5.531961529486282
-Mean Average Error =  0.16286044313243583
+Mean Average Error =  0.163801832977132
 ====
 Diff = 876954.4935, Hash Rate = 10483344258628.5000 Expected Result = 5.9881.
 Current COV and iteration 99.9949998749938 1
@@ -2432,7 +2432,7 @@ Current COV and iteration 0.6554779875310633 7001
 Current COV and iteration 0.5009366349323345 8001
 Current COV and iteration 0.334529746779978 9001
 Average time =  5.938397173050638
-Mean Average Error =  0.1622138281828183
+Mean Average Error =  0.1631460915631793
 ====
 Diff = 1379192.2882, Hash Rate = 11481542821050.2000 Expected Result = 6.6562.
 Current COV and iteration 99.9949998749938 1
@@ -2446,7 +2446,7 @@ Current COV and iteration 0.6550185338186395 7001
 Current COV and iteration 0.5004001526261832 8001
 Current COV and iteration 0.333837812305082 9001
 Average time =  8.521788845551223
-Mean Average Error =  0.17189209532695696
+Mean Average Error =  0.1728743358716824
 ====
 Diff = 1379192.2882, Hash Rate = 9837786461899.6700 Expected Result = 10.0354.
 Current COV and iteration 99.9949998749938 1
@@ -2460,7 +2460,7 @@ Current COV and iteration 0.6549650588686813 7001
 Current COV and iteration 0.5003356136418718 8001
 Current COV and iteration 0.33375157877752976 9001
 Average time =  9.9499299929993
-Mean Average Error =  0.1714038349409329
+Mean Average Error =  0.17237772036673366
 ====
 Diff = 1379192.2882, Hash Rate = 10406837322427.7000 Expected Result = 9.4867.
 Current COV and iteration 99.9949998749938 1
@@ -2474,7 +2474,7 @@ Current COV and iteration 0.6551155562855709 7001
 Current COV and iteration 0.5004938388728357 8001
 Current COV and iteration 0.3339522910098543 9001
 Average time =  9.431201453478682
-Mean Average Error =  0.17075268163520474
+Mean Average Error =  0.17171738605122286
 ====
 Diff = 1379192.2882, Hash Rate = 11391770359010.5000 Expected Result = 8.6665.
 Current COV and iteration 99.9949998749938 1
@@ -2488,7 +2488,7 @@ Current COV and iteration 0.6549996073605149 7001
 Current COV and iteration 0.5003789813855737 8001
 Current COV and iteration 0.33381218061511064 9001
 Average time =  8.570423709037572
-Mean Average Error =  0.17033549509513338
+Mean Average Error =  0.1712924360788139
 ====
 Diff = 1379192.2882, Hash Rate = 10934925394623.6000 Expected Result = 9.0285.
 Current COV and iteration 99.9949998749938 1
@@ -2502,7 +2502,7 @@ Current COV and iteration 0.6550812657576862 7001
 Current COV and iteration 0.500453421184205 8001
 Current COV and iteration 0.33389403185924565 9001
 Average time =  8.929062906290628
-Mean Average Error =  0.1699416150874347
+Mean Average Error =  0.17089100958512984
 ====
 Diff = 1379192.2882, Hash Rate = 11756401192278.5000 Expected Result = 8.3977.
 Current COV and iteration 99.9949998749938 1
@@ -2516,7 +2516,7 @@ Current COV and iteration 0.6549706328485793 7001
 Current COV and iteration 0.5003482085036053 8001
 Current COV and iteration 0.33377246597341304 9001
 Average time =  8.334020068673533
-Mean Average Error =  0.16935453396168348
+Mean Average Error =  0.17029539248369285
 ====
 Diff = 1379192.2882, Hash Rate = 13187920441672.1000 Expected Result = 7.4861.
 Current COV and iteration 99.9949998749938 1
@@ -2530,7 +2530,7 @@ Current COV and iteration 0.6551913180907595 7001
 Current COV and iteration 0.5005824304441424 8001
 Current COV and iteration 0.33407260343983214 9001
 Average time =  7.443020968763544
-Mean Average Error =  0.16866071251813827
+Mean Average Error =  0.16959253965912247
 ====
 Diff = 1379192.2882, Hash Rate = 11783553976801.1000 Expected Result = 8.3783.
 Current COV and iteration 99.9949998749938 1
@@ -2544,7 +2544,7 @@ Current COV and iteration 0.6549879129605625 7001
 Current COV and iteration 0.5003673051593305 8001
 Current COV and iteration 0.33379567626098333 9001
 Average time =  8.305977264393107
-Mean Average Error =  0.1681342754858364
+Mean Average Error =  0.16905809018630802
 ====
 Diff = 1379192.2882, Hash Rate = 11564024022561.4000 Expected Result = 8.5374.
 Current COV and iteration 99.9949998749938 1
@@ -2558,7 +2558,7 @@ Current COV and iteration 0.6549588745495925 7001
 Current COV and iteration 0.5003360476203538 8001
 Current COV and iteration 0.3337578947216646 9001
 Average time =  8.467436743674368
-Mean Average Error =  0.16760073733822659
+Mean Average Error =  0.16851658836193276
 ====
 Diff = 1379192.2882, Hash Rate = 11347865465201.2000 Expected Result = 8.7000.
 Current COV and iteration 99.9949998749938 1
@@ -2572,7 +2572,7 @@ Current COV and iteration 0.6549747403401728 7001
 Current COV and iteration 0.500350587187779 8001
 Current COV and iteration 0.3337740506540572 9001
 Average time =  8.597118045137847
-Mean Average Error =  0.16725090608159915
+Mean Average Error =  0.16815987839726002
 ====
 Diff = 1379192.2882, Hash Rate = 11715952873487.0000 Expected Result = 8.4267.
 Current COV and iteration 99.9949998749938 1
@@ -2586,7 +2586,7 @@ Current COV and iteration 0.6550044576102363 7001
 Current COV and iteration 0.5003840930847107 8001
 Current COV and iteration 0.3338172130596892 9001
 Average time =  8.361797846451312
-Mean Average Error =  0.16670064397120715
+Mean Average Error =  0.16760172853321367
 ====
 Diff = 1379192.2882, Hash Rate = 9486254391558.1100 Expected Result = 10.4073.
 Current COV and iteration 99.9949998749938 1
@@ -2600,7 +2600,7 @@ Current COV and iteration 0.6549146755646182 7001
 Current COV and iteration 0.5002789380740355 8001
 Current COV and iteration 0.3336766016846022 9001
 Average time =  10.327344401106776
-Mean Average Error =  0.1662367667248008
+Mean Average Error =  0.16713051278246105
 ====
 Diff = 1563027.9961, Hash Rate = 10932227674753.9000 Expected Result = 9.2071.
 Current COV and iteration 99.9949998749938 1
@@ -2614,7 +2614,7 @@ Current COV and iteration 0.654945716976805 7001
 Current COV and iteration 0.5003148188620047 8001
 Current COV and iteration 0.3337240219626194 9001
 Average time =  10.15999266593326
-Mean Average Error =  0.17042110661420748
+Mean Average Error =  0.17133244943032624
 ====
 Diff = 1563027.9961, Hash Rate = 10289983975858.3000 Expected Result = 10.8733.
 Current COV and iteration 99.9949998749938 1
@@ -2628,7 +2628,7 @@ Current COV and iteration 0.6549286496615192 7001
 Current COV and iteration 0.5002913665859395 8001
 Current COV and iteration 0.3336897372043681 9001
 Average time =  10.736978697869786
-Mean Average Error =  0.17024068436826043
+Mean Average Error =  0.17114621992341075
 ====
 Diff = 1563027.9961, Hash Rate = 12910363192168.9000 Expected Result = 8.6664.
 Current COV and iteration 99.9949998749938 1
@@ -2642,7 +2642,7 @@ Current COV and iteration 0.6549917869085329 7001
 Current COV and iteration 0.500370354127101 8001
 Current COV and iteration 0.3338010425705677 9001
 Average time =  8.578464513117979
-Mean Average Error =  0.16980749911833284
+Mean Average Error =  0.1707059514946203
 ====
 Diff = 1563027.9961, Hash Rate = 11380039646647.0000 Expected Result = 9.8318.
 Current COV and iteration 99.9949998749938 1
@@ -2656,7 +2656,7 @@ Current COV and iteration 0.6550310519650857 7001
 Current COV and iteration 0.5004012140139515 8001
 Current COV and iteration 0.33383200392671536 9001
 Average time =  9.75084175084175
-Mean Average Error =  0.1693423197991701
+Mean Average Error =  0.17023359516653416
 ====
 Diff = 1563027.9961, Hash Rate = 10867971820018.5000 Expected Result = 10.2950.
 Current COV and iteration 99.9949998749938 1
@@ -2670,7 +2670,7 @@ Current COV and iteration 0.6549661883103312 7001
 Current COV and iteration 0.5003384304421219 8001
 Current COV and iteration 0.3337537427763561 9001
 Average time =  10.237893789378939
-Mean Average Error =  0.16875775673053414
+Mean Average Error =  0.1696413051950919
 ====
 Diff = 1563027.9961, Hash Rate = 11949854281682.3000 Expected Result = 9.3630.
 Current COV and iteration 99.9949998749938 1
@@ -2684,7 +2684,7 @@ Current COV and iteration 0.6550963829270191 7001
 Current COV and iteration 0.500467029762443 8001
 Current COV and iteration 0.333914387805633 9001
 Average time =  9.273844051071773
-Mean Average Error =  0.16834531213052215
+Mean Average Error =  0.16922211063120196
 ====
 Diff = 1563027.9961, Hash Rate = 10946372603539.6000 Expected Result = 10.2213.
 Current COV and iteration 99.9949998749938 1
@@ -2698,7 +2698,7 @@ Current COV and iteration 0.6549586415342176 7001
 Current COV and iteration 0.5003290726326232 8001
 Current COV and iteration 0.3337427745803616 9001
 Average time =  10.146239623962398
-Mean Average Error =  0.16786446194447616
+Mean Average Error =  0.16873422599600194
 ====
 Diff = 1563027.9961, Hash Rate = 14887289128690.5000 Expected Result = 7.5155.
 Current COV and iteration 99.9949998749938 1
@@ -2712,7 +2712,7 @@ Current COV and iteration 0.6552556628585893 7001
 Current COV and iteration 0.5006526018631625 8001
 Current COV and iteration 0.3341616577734827 9001
 Average time =  7.477754442110878
-Mean Average Error =  0.16719718551342308
+Mean Average Error =  0.1680590266758634
 ====
 Diff = 1563027.9961, Hash Rate = 11315761558152.7000 Expected Result = 9.8876.
 Current COV and iteration 99.9949998749938 1
@@ -2726,7 +2726,7 @@ Current COV and iteration 0.6549942748350372 7001
 Current COV and iteration 0.5003613619790478 8001
 Current COV and iteration 0.33378094765726096 9001
 Average time =  9.815556555655565
-Mean Average Error =  0.16671170724215273
+Mean Average Error =  0.16756663907416378
 ====
 Diff = 1563027.9961, Hash Rate = 13012790681555.9000 Expected Result = 8.5981.
 Current COV and iteration 99.9949998749938 1
@@ -2740,7 +2740,7 @@ Current COV and iteration 0.655012095152527 7001
 Current COV and iteration 0.50039349544862 8001
 Current COV and iteration 0.33383013522123983 9001
 Average time =  8.528819548621529
-Mean Average Error =  0.1662171323392914
+Mean Average Error =  0.16706517893285922
 ====
 Diff = 1563027.9961, Hash Rate = 11654652591311.8000 Expected Result = 9.6001.
 Current COV and iteration 99.9949998749938 1
@@ -2754,7 +2754,7 @@ Current COV and iteration 0.6551522949403419 7001
 Current COV and iteration 0.5005336612857004 8001
 Current COV and iteration 0.33399932913321817 9001
 Average time =  9.546981364803147
-Mean Average Error =  0.16564592780826898
+Mean Average Error =  0.1664867700814074
 ====
 Diff = 1563027.9961, Hash Rate = 13208752331351.5000 Expected Result = 8.4706.
 Current COV and iteration 99.9949998749938 1
@@ -2768,7 +2768,7 @@ Current COV and iteration 0.6549801571921339 7001
 Current COV and iteration 0.5003580449435496 8001
 Current COV and iteration 0.33378502397978593 9001
 Average time =  8.41149114911491
-Mean Average Error =  0.1651105656126751
+Mean Average Error =  0.16594445735819366
 ====
 Diff = 1563027.9961, Hash Rate = 13368430810476.6000 Expected Result = 8.3694.
 Current COV and iteration 99.9949998749938 1
@@ -2782,7 +2782,7 @@ Current COV and iteration 0.6549870740466679 7001
 Current COV and iteration 0.5003651942933787 8001
 Current COV and iteration 0.3337919005955021 9001
 Average time =  8.303923725705904
-Mean Average Error =  0.16461239415608223
+Mean Average Error =  0.16543959211666556
 ====
 Diff = 1690895.8031, Hash Rate = 11043896764536.6000 Expected Result = 10.2653.
 Current COV and iteration 99.9949998749938 1
@@ -2796,7 +2796,7 @@ Current COV and iteration 0.6549152826624276 7001
 Current COV and iteration 0.5002762498385082 8001
 Current COV and iteration 0.3336708881592125 9001
 Average time =  10.800020002000199
-Mean Average Error =  0.16645372553839127
+Mean Average Error =  0.16728599416608322
 ====
 Diff = 1690895.8031, Hash Rate = 12525772772957.2000 Expected Result = 9.6632.
 Current COV and iteration 99.9949998749938 1
@@ -2810,7 +2810,7 @@ Current COV and iteration 0.655103140880281 7001
 Current COV and iteration 0.5004786259721179 8001
 Current COV and iteration 0.33392772218326433 9001
 Average time =  9.59196419641964
-Mean Average Error =  0.16598234968711387
+Mean Average Error =  0.1668081325213781
 ====
 Diff = 1690895.8031, Hash Rate = 12836364605425.4000 Expected Result = 9.4294.
 Current COV and iteration 99.9949998749938 1
@@ -2824,7 +2824,7 @@ Current COV and iteration 0.6551530049012187 7001
 Current COV and iteration 0.50053001891401 8001
 Current COV and iteration 0.3339955533899805 9001
 Average time =  9.358102476914357
-Mean Average Error =  0.16551592196986523
+Mean Average Error =  0.1663353077221913
 ====
 Diff = 1690895.8031, Hash Rate = 12726756126930.7000 Expected Result = 9.5106.
 Current COV and iteration 99.9949998749938 1
@@ -2838,7 +2838,7 @@ Current COV and iteration 0.65510669612278 7001
 Current COV and iteration 0.500485165455178 8001
 Current COV and iteration 0.3339411402121354 9001
 Average time =  9.4491199119912
-Mean Average Error =  0.16500594239162472
+Mean Average Error =  0.16581877954626326
 ====
 Diff = 1690895.8031, Hash Rate = 12289651323170.3000 Expected Result = 9.8489.
 Current COV and iteration 99.9949998749938 1
@@ -2852,7 +2852,7 @@ Current COV and iteration 0.6550269400954789 7001
 Current COV and iteration 0.5003956229899202 8001
 Current COV and iteration 0.3338232674439804 9001
 Average time =  9.756889022235555
-Mean Average Error =  0.16464986939344334
+Mean Average Error =  0.1654569765963524
 ====
 Diff = 1690895.8031, Hash Rate = 13948106594380.6000 Expected Result = 8.6778.
 Current COV and iteration 99.9949998749938 1
@@ -2866,7 +2866,7 @@ Current COV and iteration 0.6549902458788436 7001
 Current COV and iteration 0.5003686174372353 8001
 Current COV and iteration 0.3337988951029562 9001
 Average time =  8.57880121345468
-Mean Average Error =  0.16433117481651072
+Mean Average Error =  0.16513279030342054
 ====
 Diff = 1690895.8031, Hash Rate = 13869698352746.2000 Expected Result = 8.7269.
 Current COV and iteration 99.9949998749938 1
@@ -2880,7 +2880,7 @@ Current COV and iteration 0.6549620781279827 7001
 Current COV and iteration 0.500336358379262 8001
 Current COV and iteration 0.33375574147900244 9001
 Average time =  8.624925825915925
-Mean Average Error =  0.16402993326707868
+Mean Average Error =  0.1648261950790548
 ====
 Diff = 1690895.8031, Hash Rate = 14681340931179.8000 Expected Result = 8.2444.
 Current COV and iteration 99.9949998749938 1
@@ -2894,7 +2894,7 @@ Current COV and iteration 0.6550881335875182 7001
 Current COV and iteration 0.5004772725722005 8001
 Current COV and iteration 0.33393362501421503 9001
 Average time =  8.15951928526186
-Mean Average Error =  0.16364940817799725
+Mean Average Error =  0.16443998502909868
 ====
 Diff = 1690895.8031, Hash Rate = 14635713903860.8000 Expected Result = 8.2701.
 Current COV and iteration 99.9949998749938 1
@@ -2908,7 +2908,7 @@ Current COV and iteration 0.6550693205777144 7001
 Current COV and iteration 0.5004521271033749 8001
 Current COV and iteration 0.33389722599030774 9001
 Average time =  8.191512484581791
-Mean Average Error =  0.1632424134757973
+Mean Average Error =  0.164027232771354
 ====
 Diff = 1690895.8031, Hash Rate = 13036353327619.9000 Expected Result = 9.2847.
 Current COV and iteration 99.9949998749938 1
@@ -2922,7 +2922,7 @@ Current COV and iteration 0.6551211729318216 7001
 Current COV and iteration 0.5004898905491306 8001
 Current COV and iteration 0.333937352677582 9001
 Average time =  9.191894189418942
-Mean Average Error =  0.16290700108106046
+Mean Average Error =  0.16368646041637655
 ====
 Diff = 1690895.8031, Hash Rate = 13866208544354.7000 Expected Result = 8.7291.
 Current COV and iteration 99.9949998749938 1
@@ -2936,7 +2936,7 @@ Current COV and iteration 0.654980397253254 7001
 Current COV and iteration 0.5003576681749541 8001
 Current COV and iteration 0.33378381320846623 9001
 Average time =  8.627532753275327
-Mean Average Error =  0.16261629134477426
+Mean Average Error =  0.16339065463689223
 ====
 Diff = 1690895.8031, Hash Rate = 12729491116125.4000 Expected Result = 9.5086.
 Current COV and iteration 99.9949998749938 1
@@ -2950,7 +2950,7 @@ Current COV and iteration 0.6551061258890547 7001
 Current COV and iteration 0.5004850212735288 8001
 Current COV and iteration 0.3339414673499536 9001
 Average time =  9.443577691102442
-Mean Average Error =  0.16215594237096662
+Mean Average Error =  0.16292445394618446
 ====
 Diff = 1690895.8031, Hash Rate = 14656340160001.8000 Expected Result = 8.2585.
 Current COV and iteration 99.9949998749938 1
@@ -2964,7 +2964,7 @@ Current COV and iteration 0.6550838142692385 7001
 Current COV and iteration 0.5004700099940856 8001
 Current COV and iteration 0.3339215362658539 9001
 Average time =  8.171070440377372
-Mean Average Error =  0.16180511428294622
+Mean Average Error =  0.1625683459540922
 ====
 Diff = 1888786.7054, Hash Rate = 15011253772696.4000 Expected Result = 8.6180.
 Current COV and iteration 99.9949998749938 1
@@ -2978,7 +2978,7 @@ Current COV and iteration 0.6550944116990166 7001
 Current COV and iteration 0.5004676397288017 8001
 Current COV and iteration 0.333910903589738 9001
 Average time =  8.905400540054007
-Mean Average Error =  0.16239200879589513
+Mean Average Error =  0.16315441259305896
 ====
 Diff = 1888786.7054, Hash Rate = 14501679409923.4000 Expected Result = 9.3234.
 Current COV and iteration 99.9949998749938 1
@@ -2992,7 +2992,7 @@ Current COV and iteration 0.6551118430681442 7001
 Current COV and iteration 0.5004848214639686 8001
 Current COV and iteration 0.3339369507734656 9001
 Average time =  9.237480414708136
-Mean Average Error =  0.16203632310517868
+Mean Average Error =  0.16279350218510943
 ====
 Diff = 1888786.7054, Hash Rate = 14562733074068.9000 Expected Result = 9.2843.
 Current COV and iteration 99.9949998749938 1
@@ -3006,7 +3006,7 @@ Current COV and iteration 0.6551211729318216 7001
 Current COV and iteration 0.5004898905491306 8001
 Current COV and iteration 0.333937352677582 9001
 Average time =  9.191894189418942
-Mean Average Error =  0.16171395962127072
+Mean Average Error =  0.16246611757299756
 ====
 Diff = 1888786.7054, Hash Rate = 12144268368602.1000 Expected Result = 11.1332.
 Current COV and iteration 99.9949998749938 1
@@ -3020,7 +3020,7 @@ Current COV and iteration 0.6549790951891757 7001
 Current COV and iteration 0.5003443377397617 8001
 Current COV and iteration 0.33375500380879003 9001
 Average time =  10.970902090209021
-Mean Average Error =  0.16171665063587767
+Mean Average Error =  0.162465338833266
 ====
 Diff = 1888786.7054, Hash Rate = 13364542221764.3000 Expected Result = 10.1167.
 Current COV and iteration 99.9949998749938 1
@@ -3034,7 +3034,7 @@ Current COV and iteration 0.654957056116028 7001
 Current COV and iteration 0.5003276117030545 8001
 Current COV and iteration 0.3337415347628271 9001
 Average time =  10.041664166416641
-Mean Average Error =  0.16131903220903124
+Mean Average Error =  0.16206243788741387
 ====
 Diff = 1888786.7054, Hash Rate = 11243499610226.0000 Expected Result = 12.0251.
 Current COV and iteration 99.9949998749938 1
@@ -3048,7 +3048,7 @@ Current COV and iteration 0.6549746788975648 7001
 Current COV and iteration 0.5003385036499005 8001
 Current COV and iteration 0.33375046705046885 9001
 Average time =  11.723520685401873
-Mean Average Error =  0.16195949011948374
+Mean Average Error =  0.1627024235603988
 ====
 Diff = 1888786.7054, Hash Rate = 11847407369430.4000 Expected Result = 11.4122.
 Current COV and iteration 99.9949998749938 1
@@ -3062,7 +3062,7 @@ Current COV and iteration 0.6549390194865967 7001
 Current COV and iteration 0.5002986646566123 8001
 Current COV and iteration 0.3336985170282514 9001
 Average time =  11.202625262526253
-Mean Average Error =  0.16217592306200315
+Mean Average Error =  0.16291645239105337
 ====
 Diff = 1888786.7054, Hash Rate = 12727489380867.2000 Expected Result = 10.6230.
 Current COV and iteration 99.9949998749938 1
@@ -3076,7 +3076,7 @@ Current COV and iteration 0.6548839856310363 7001
 Current COV and iteration 0.5002411547708883 8001
 Current COV and iteration 0.3336261722716804 9001
 Average time =  10.496284628462847
-Mean Average Error =  0.1620154680777278
+Mean Average Error =  0.16275190202353565
 ====
 Diff = 1888786.7054, Hash Rate = 13770564252313.1000 Expected Result = 9.8184.
 Current COV and iteration 99.9949998749938 1
@@ -3090,7 +3090,7 @@ Current COV and iteration 0.6550475737624942 7001
 Current COV and iteration 0.5004183913307904 8001
 Current COV and iteration 0.3338537023199924 9001
 Average time =  9.733204987165383
-Mean Average Error =  0.1616694299910471
+Mean Average Error =  0.16240096587335956
 ====
 Diff = 1888786.7054, Hash Rate = 14240941070714.2000 Expected Result = 9.4941.
 Current COV and iteration 99.9949998749938 1
@@ -3104,7 +3104,7 @@ Current COV and iteration 0.6551065881243585 7001
 Current COV and iteration 0.500483771738025 8001
 Current COV and iteration 0.33393852310727 9001
 Average time =  9.434528452845283
-Mean Average Error =  0.16121159195142232
+Mean Average Error =  0.16193777029354584
 ====
 Diff = 1888786.7054, Hash Rate = 12854290615541.3000 Expected Result = 10.5182.
 Current COV and iteration 99.9949998749938 1
@@ -3118,7 +3118,7 @@ Current COV and iteration 0.65489322317326 7001
 Current COV and iteration 0.5002515600392727 8001
 Current COV and iteration 0.3336397935092474 9001
 Average time =  10.41870853752042
-Mean Average Error =  0.16093605565913732
+Mean Average Error =  0.16165774200738459
 ====
 Diff = 1888786.7054, Hash Rate = 12250804692412.7000 Expected Result = 11.0364.
 Current COV and iteration 99.9949998749938 1
@@ -3132,7 +3132,7 @@ Current COV and iteration 0.6548981359144895 7001
 Current COV and iteration 0.5002555910351404 8001
 Current COV and iteration 0.33364367062272604 9001
 Average time =  10.88070473714038
-Mean Average Error =  0.16091276324669504
+Mean Average Error =  0.1616311237969035
 ====
 Diff = 1888786.7054, Hash Rate = 12302226059439.9000 Expected Result = 10.9903.
 Current COV and iteration 99.9949998749938 1
@@ -3146,7 +3146,7 @@ Current COV and iteration 0.6549059354813006 7001
 Current COV and iteration 0.5002654813278452 8001
 Current COV and iteration 0.33365664370160947 9001
 Average time =  10.838777211054438
-Mean Average Error =  0.1608712146878405
+Mean Average Error =  0.1615861978642309
 ====
 Diff = 1888786.7054, Hash Rate = 12388738138215.4000 Expected Result = 10.9135.
 Current COV and iteration 99.9949998749938 1
@@ -3160,7 +3160,7 @@ Current COV and iteration 0.6549266782539322 7001
 Current COV and iteration 0.5002896993215391 8001
 Current COV and iteration 0.33368836125493956 9001
 Average time =  10.76143781044771
-Mean Average Error =  0.1608324084097103
+Mean Average Error =  0.16154405623453202
 ====
 Diff = 1888786.7054, Hash Rate = 12113073035064.0000 Expected Result = 11.1543.
 Current COV and iteration 99.9949998749938 1
@@ -3174,7 +3174,7 @@ Current COV and iteration 0.6549976507513265 7001
 Current COV and iteration 0.5003639832645643 8001
 Current COV and iteration 0.33377954533580645 9001
 Average time =  10.992740940760743
-Mean Average Error =  0.16083559547475215
+Mean Average Error =  0.16154412232706383
 ====
 Diff = 1805700.8362, Hash Rate = 13110174076959.5000 Expected Result = 9.8593.
 Current COV and iteration 99.9949998749938 1
@@ -3188,7 +3188,7 @@ Current COV and iteration 0.6550102818842918 7001
 Current COV and iteration 0.5003780267309019 8001
 Current COV and iteration 0.3338009332346197 9001
 Average time =  9.793597693102644
-Mean Average Error =  0.1604201662669906
+Mean Average Error =  0.16112376348745985
 ====
 Diff = 1805700.8362, Hash Rate = 12237926590657.3000 Expected Result = 10.5620.
 Current COV and iteration 99.9949998749938 1
@@ -3202,7 +3202,7 @@ Current COV and iteration 0.6548826457500182 7001
 Current COV and iteration 0.5002391774634091 8001
 Current COV and iteration 0.3336233688806718 9001
 Average time =  10.459724305763908
-Mean Average Error =  0.16016736421468233
+Mean Average Error =  0.16086678501911328
 ====
 Diff = 1805700.8362, Hash Rate = 13063603657178.6000 Expected Result = 9.8944.
 Current COV and iteration 99.9949998749938 1
@@ -3216,7 +3216,7 @@ Current COV and iteration 0.6549936603215206 7001
 Current COV and iteration 0.5003607604811989 8001
 Current COV and iteration 0.3337803447035406 9001
 Average time =  9.817103377004367
-Mean Average Error =  0.1598086164171973
+Mean Average Error =  0.1605034364885764
 ====
 Diff = 1805700.8362, Hash Rate = 11726638860456.0000 Expected Result = 11.0225.
 Current COV and iteration 99.9949998749938 1
@@ -3230,7 +3230,7 @@ Current COV and iteration 0.6549019676679677 7001
 Current COV and iteration 0.5002599609492813 8001
 Current COV and iteration 0.3336492673356426 9001
 Average time =  10.878267826782679
-Mean Average Error =  0.1597414765758185
+Mean Average Error =  0.16043299811943676
 ====
 Diff = 1805700.8362, Hash Rate = 13547062731964.7000 Expected Result = 9.5413.
 Current COV and iteration 99.9949998749938 1
@@ -3244,7 +3244,7 @@ Current COV and iteration 0.6551479988010283 7001
 Current COV and iteration 0.5005280504468463 8001
 Current COV and iteration 0.33399336262339796 9001
 Average time =  9.47080208020802
-Mean Average Error =  0.1593584570188063
+Mean Average Error =  0.16004534691974942
 ====
 Diff = 1805700.8362, Hash Rate = 14304120693608.8000 Expected Result = 9.0364.
 Current COV and iteration 99.9949998749938 1
@@ -3258,7 +3258,7 @@ Current COV and iteration 0.6550703551302329 7001
 Current COV and iteration 0.5004405111664962 8001
 Current COV and iteration 0.33387722167849504 9001
 Average time =  8.943362669600294
-Mean Average Error =  0.15907503340077597
+Mean Average Error =  0.15975775886601534
 ====
 Diff = 1805700.8362, Hash Rate = 15234114027897.7000 Expected Result = 8.4847.
 Current COV and iteration 99.9949998749938 1
@@ -3272,7 +3272,7 @@ Current COV and iteration 0.6549719138983984 7001
 Current COV and iteration 0.5003500677437684 8001
 Current COV and iteration 0.33377579264460344 9001
 Average time =  8.427417741774176
-Mean Average Error =  0.15864187265535065
+Mean Average Error =  0.1593198293761
 ====
 Diff = 1805700.8362, Hash Rate = 13913251725839.6000 Expected Result = 9.2902.
 Current COV and iteration 99.9949998749938 1
@@ -3286,7 +3286,7 @@ Current COV and iteration 0.6551119453611731 7001
 Current COV and iteration 0.5004796505518132 8001
 Current COV and iteration 0.33392458161582045 9001
 Average time =  9.203196986365302
-Mean Average Error =  0.158338318167975
+Mean Average Error =  0.15901209824528553
 ====
 Diff = 1805700.8362, Hash Rate = 11989928919143.5000 Expected Result = 10.7805.
 Current COV and iteration 99.9949998749938 1
@@ -3300,7 +3300,7 @@ Current COV and iteration 0.6548665406211452 7001
 Current COV and iteration 0.5002218763756134 8001
 Current COV and iteration 0.3336015016768845 9001
 Average time =  10.642307564089743
-Mean Average Error =  0.15825331444536858
+Mean Average Error =  0.15892387933708627
 ====
 Diff = 1805700.8362, Hash Rate = 12264343959148.4000 Expected Result = 10.5393.
 Current COV and iteration 99.9949998749938 1
@@ -3314,7 +3314,7 @@ Current COV and iteration 0.654885540452507 7001
 Current COV and iteration 0.5002420794076912 8001
 Current COV and iteration 0.33362702786525594 9001
 Average time =  10.444162749608294
-Mean Average Error =  0.15798812089892464
+Mean Average Error =  0.15865473744280195
 ====
 Diff = 1805700.8362, Hash Rate = 13260993690337.5000 Expected Result = 9.7472.
 Current COV and iteration 99.9949998749938 1
@@ -3328,7 +3328,7 @@ Current COV and iteration 0.6550487839797097 7001
 Current COV and iteration 0.5004177097546753 8001
 Current COV and iteration 0.33385007736034306 9001
 Average time =  9.677096042937626
-Mean Average Error =  0.1576204047322445
+Mean Average Error =  0.15828267534036317
 ====
 Diff = 1805700.8362, Hash Rate = 10926288776638.7000 Expected Result = 11.8299.
 Current COV and iteration 99.9949998749938 1
@@ -3342,7 +3342,7 @@ Current COV and iteration 0.6549504391582364 7001
 Current COV and iteration 0.5003080817344446 8001
 Current COV and iteration 0.33370725777423005 9001
 Average time =  11.54214088075474
-Mean Average Error =  0.15816264937604874
+Mean Average Error =  0.1588244177834799
 ====
 Diff = 1805700.8362, Hash Rate = 10341162370092.0000 Expected Result = 12.4993.
 Current COV and iteration 99.9949998749938 1
@@ -3356,7 +3356,7 @@ Current COV and iteration 0.6550270925628376 7001
 Current COV and iteration 0.5003880480166546 8001
 Current COV and iteration 0.3338137203320649 9001
 Average time =  12.16222622262226
-Mean Average Error =  0.15890501920178188
+Mean Average Error =  0.15956712344845597
 ====
 Diff = 1805700.8362, Hash Rate = 12333607527721.3000 Expected Result = 10.4801.
 Current COV and iteration 99.9949998749938 1
@@ -3370,7 +3370,7 @@ Current COV and iteration 0.6548916572628699 7001
 Current COV and iteration 0.5002515727983813 8001
 Current COV and iteration 0.33364137632521534 9001
 Average time =  10.394311097776445
-Mean Average Error =  0.15860288648699583
+Mean Average Error =  0.15926098975042735
 ====
 Diff = 1805700.8362, Hash Rate = 12932741374102.6000 Expected Result = 9.8696.
 Current COV and iteration 99.9949998749938 1
@@ -3384,7 +3384,7 @@ Current COV and iteration 0.654958665219983 7001
 Current COV and iteration 0.5003275214001924 8001
 Current COV and iteration 0.3337416426262231 9001
 Average time =  9.921050438377172
-Mean Average Error =  0.1581619299104122
+Mean Average Error =  0.15881549160425687
 ====
 Diff = 1777774.4820, Hash Rate = 13775562549069.8000 Expected Result = 9.2380.
 Current COV and iteration 99.9949998749938 1
@@ -3398,7 +3398,7 @@ Current COV and iteration 0.6551172683868098 7001
 Current COV and iteration 0.5004900456371503 8001
 Current COV and iteration 0.33394057125834575 9001
 Average time =  9.126677667766778
-Mean Average Error =  0.15796996434616142
+Mean Average Error =  0.15862004650396455
 ====
 Diff = 1777774.4820, Hash Rate = 11296129874327.8000 Expected Result = 11.2656.
 Current COV and iteration 99.9949998749938 1
@@ -3412,7 +3412,7 @@ Current COV and iteration 0.6549542487201722 7001
 Current COV and iteration 0.5003181329601545 8001
 Current COV and iteration 0.33372410331800956 9001
 Average time =  11.090927426075941
-Mean Average Error =  0.15803813826280588
+Mean Average Error =  0.1586858355507682
 ====
 Diff = 1777774.4820, Hash Rate = 13858952476969.5000 Expected Result = 9.1824.
 Current COV and iteration 99.9949998749938 1
@@ -3426,7 +3426,7 @@ Current COV and iteration 0.6550884229690422 7001
 Current COV and iteration 0.5004591482464049 8001
 Current COV and iteration 0.33390107744099917 9001
 Average time =  9.072463913057971
-Mean Average Error =  0.15784260146881898
+Mean Average Error =  0.15848685698501824
 ====
 Diff = 1777774.4820, Hash Rate = 12805138417085.6000 Expected Result = 9.9380.
 Current COV and iteration 99.9949998749938 1
@@ -3440,7 +3440,7 @@ Current COV and iteration 0.6549925508296903 7001
 Current COV and iteration 0.5003611082133009 8001
 Current COV and iteration 0.33378169410602593 9001
 Average time =  9.847218055138848
-Mean Average Error =  0.15757110083477985
+Mean Average Error =  0.15821163376500255
 ====
 Diff = 1777774.4820, Hash Rate = 11780032891844.9000 Expected Result = 10.8029.
 Current COV and iteration 99.9949998749938 1
@@ -3454,7 +3454,7 @@ Current COV and iteration 0.654877751096089 7001
 Current COV and iteration 0.5002342871963169 8001
 Current COV and iteration 0.333616971352598 9001
 Average time =  10.6488698869887
-Mean Average Error =  0.15755682265807228
+Mean Average Error =  0.1581947045311819
 ====
 Diff = 1777774.4820, Hash Rate = 13892897914997.0000 Expected Result = 9.1599.
 Current COV and iteration 99.9949998749938 1
@@ -3468,7 +3468,7 @@ Current COV and iteration 0.655087603019608 7001
 Current COV and iteration 0.5004596961122302 8001
 Current COV and iteration 0.33390335980688957 9001
 Average time =  9.046703003633697
-Mean Average Error =  0.15737867074525394
+Mean Average Error =  0.15801326215954933
 ====
 Diff = 1777774.4820, Hash Rate = 13345038800856.5000 Expected Result = 9.5360.
 Current COV and iteration 99.9949998749938 1
@@ -3482,7 +3482,7 @@ Current COV and iteration 0.6550931796664143 7001
 Current COV and iteration 0.5004706089749682 8001
 Current COV and iteration 0.33392329015285227 9001
 Average time =  9.457250725072505
-Mean Average Error =  0.1570641531619829
+Mean Average Error =  0.15769493289355715
 ====
 Diff = 1777774.4820, Hash Rate = 11960260798877.1000 Expected Result = 10.6401.
 Current COV and iteration 99.9949998749938 1
@@ -3496,7 +3496,7 @@ Current COV and iteration 0.6548800028220632 7001
 Current COV and iteration 0.5002367530249548 8001
 Current COV and iteration 0.3336209744598563 9001
 Average time =  10.511566156615661
-Mean Average Error =  0.1569504865891636
+Mean Average Error =  0.15757828853552028
 ====
 Diff = 1777774.4820, Hash Rate = 11376236868193.0000 Expected Result = 11.1863.
 Current COV and iteration 99.9949998749938 1
@@ -3510,7 +3510,7 @@ Current COV and iteration 0.655002731127824 7001
 Current COV and iteration 0.5003697772413757 8001
 Current COV and iteration 0.33378674255707186 9001
 Average time =  10.9979697969797
-Mean Average Error =  0.15707500927341417
+Mean Average Error =  0.15770080612310902
 ====
 Diff = 1777774.4820, Hash Rate = 13650620176670.3000 Expected Result = 9.3225.
 Current COV and iteration 99.9949998749938 1
@@ -3524,7 +3524,7 @@ Current COV and iteration 0.6550479249702164 7001
 Current COV and iteration 0.5004179683077389 8001
 Current COV and iteration 0.3338547393057877 9001
 Average time =  9.223625695902923
-Mean Average Error =  0.15684496696046418
+Mean Average Error =  0.15746736762300573
 ====
 Diff = 1777774.4820, Hash Rate = 11855371572880.0000 Expected Result = 10.7342.
 Current COV and iteration 99.9949998749938 1
@@ -3538,7 +3538,7 @@ Current COV and iteration 0.654872563729274 7001
 Current COV and iteration 0.5002294666449666 8001
 Current COV and iteration 0.3336123119612682 9001
 Average time =  10.57046537987132
-Mean Average Error =  0.1568720915792367
+Mean Average Error =  0.15749213937204
 ====
 Diff = 1777774.4820, Hash Rate = 11068356014454.8000 Expected Result = 11.4975.
 Current COV and iteration 99.9949998749938 1
@@ -3552,7 +3552,7 @@ Current COV and iteration 0.654939857861236 7001
 Current COV and iteration 0.500296687933898 8001
 Current COV and iteration 0.3336934168401262 9001
 Average time =  11.272668933560022
-Mean Average Error =  0.15713859736300428
+Mean Average Error =  0.15775725325813422
 ====
 Diff = 1777774.4820, Hash Rate = 11596127544263.4000 Expected Result = 10.9742.
 Current COV and iteration 99.9949998749938 1
@@ -3566,7 +3566,7 @@ Current COV and iteration 0.6549122880996169 7001
 Current COV and iteration 0.5002725082338451 8001
 Current COV and iteration 0.3336658260960022 9001
 Average time =  10.807452411907857
-Mean Average Error =  0.15717613248304
+Mean Average Error =  0.15779250947316956
 ====
 Diff = 1777774.4820, Hash Rate = 12518716096351.7000 Expected Result = 10.0934.
 Current COV and iteration 99.9949998749938 1
@@ -3580,7 +3580,7 @@ Current COV and iteration 0.6549512136581193 7001
 Current COV and iteration 0.5003201653780321 8001
 Current COV and iteration 0.3337309710244306 9001
 Average time =  10.089822315564891
-Mean Average Error =  0.15657847315211418
+Mean Average Error =  0.15719010781286463
 ====
 Diff = 1755425.3203, Hash Rate = 13038236726148.2000 Expected Result = 9.6377.
 Current COV and iteration 99.9949998749938 1
@@ -3594,7 +3594,7 @@ Current COV and iteration 0.655094522945762 7001
 Current COV and iteration 0.500469014166054 8001
 Current COV and iteration 0.33391529721257346 9001
 Average time =  9.599304930493048
-Mean Average Error =  0.15612039794418722
+Mean Average Error =  0.1567278703097288
 ====
 Diff = 1755425.3203, Hash Rate = 13253564982653.4000 Expected Result = 9.4811.
 Current COV and iteration 99.9949998749938 1
@@ -3608,7 +3608,7 @@ Current COV and iteration 0.655100576563157 7001
 Current COV and iteration 0.500478380049658 8001
 Current COV and iteration 0.33393251238540594 9001
 Average time =  9.452863619695304
-Mean Average Error =  0.15562663725832046
+Mean Average Error =  0.15622984127870154
 ====
 Diff = 1755425.3203, Hash Rate = 10406177673159.6000 Expected Result = 12.0754.
 Current COV and iteration 99.9949998749938 1
@@ -3622,7 +3622,7 @@ Current COV and iteration 0.6550082232430572 7001
 Current COV and iteration 0.5003735564736596 8001
 Current COV and iteration 0.33379590584871505 9001
 Average time =  11.806917358402506
-Mean Average Error =  0.15606069881347112
+Mean Average Error =  0.1566632497741409
 ====
 Diff = 1755425.3203, Hash Rate = 11655828440592.1000 Expected Result = 10.7807.
 Current COV and iteration 99.9949998749938 1
@@ -3636,7 +3636,7 @@ Current COV and iteration 0.6548816228426921 7001
 Current COV and iteration 0.5002399925001398 8001
 Current COV and iteration 0.3336253775837114 9001
 Average time =  10.674825815914925
-Mean Average Error =  0.15586841331642745
+Mean Average Error =  0.15646790721379833
 ====
 Diff = 1755425.3203, Hash Rate = 13799479941365.5000 Expected Result = 9.1060.
 Current COV and iteration 99.9949998749938 1
@@ -3650,7 +3650,7 @@ Current COV and iteration 0.6550782259924666 7001
 Current COV and iteration 0.5004478303903672 8001
 Current COV and iteration 0.3338867410129921 9001
 Average time =  9.022583925059172
-Mean Average Error =  0.1555918776737725
+Mean Average Error =  0.15618801513612413
 ====
 Diff = 1755425.3203, Hash Rate = 11141288776928.1000 Expected Result = 11.2786.
 Current COV and iteration 99.9949998749938 1
@@ -3664,7 +3664,7 @@ Current COV and iteration 0.6549597722215628 7001
 Current COV and iteration 0.5003243788031848 8001
 Current COV and iteration 0.33373205148154794 9001
 Average time =  11.12876787678768
-Mean Average Error =  0.15556997746669474
+Mean Average Error =  0.15616375600664395
 ====
 Diff = 1755425.3203, Hash Rate = 12148717920370.8000 Expected Result = 10.3433.
 Current COV and iteration 99.9949998749938 1
@@ -3678,7 +3678,7 @@ Current COV and iteration 0.6549296183375065 7001
 Current COV and iteration 0.5002966327518217 8001
 Current COV and iteration 0.3337001660763909 9001
 Average time =  10.291555822248892
-Mean Average Error =  0.1551766979223175
+Mean Average Error =  0.15576672338970274
 ====
 Diff = 1755425.3203, Hash Rate = 12730918923965.9000 Expected Result = 9.8703.
 Current COV and iteration 99.9949998749938 1
@@ -3692,7 +3692,7 @@ Current COV and iteration 0.654991960080216 7001
 Current COV and iteration 0.5003590627623439 8001
 Current COV and iteration 0.33377837540609223 9001
 Average time =  9.817280061339467
-Mean Average Error =  0.15479120071755603
+Mean Average Error =  0.15537753102330437
 ====
 Diff = 1755425.3203, Hash Rate = 13112934514654.8000 Expected Result = 9.5828.
 Current COV and iteration 99.9949998749938 1
@@ -3706,7 +3706,7 @@ Current COV and iteration 0.6551428411949051 7001
 Current COV and iteration 0.5005241645024403 8001
 Current COV and iteration 0.3339883175688697 9001
 Average time =  9.551333466680001
-Mean Average Error =  0.1543275741483923
+Mean Average Error =  0.15490994235272584
 ====
 Diff = 1755425.3203, Hash Rate = 11450478428326.3000 Expected Result = 10.9741.
 Current COV and iteration 99.9949998749938 1
@@ -3720,7 +3720,7 @@ Current COV and iteration 0.6549063887707257 7001
 Current COV and iteration 0.5002652506129204 8001
 Current COV and iteration 0.3336564458925438 9001
 Average time =  10.866708337500416
-Mean Average Error =  0.15415178421712336
+Mean Average Error =  0.15473130220290202
 ====
 Diff = 1755425.3203, Hash Rate = 11284572910826.2000 Expected Result = 11.1354.
 Current COV and iteration 99.9949998749938 1
@@ -3734,7 +3734,7 @@ Current COV and iteration 0.655002731127824 7001
 Current COV and iteration 0.5003697772413757 8001
 Current COV and iteration 0.33378694375996704 9001
 Average time =  10.997726439310599
-Mean Average Error =  0.15409029830843785
+Mean Average Error =  0.15466741553056682
 ====
 Diff = 1755425.3203, Hash Rate = 12007378547241.4000 Expected Result = 10.4651.
 Current COV and iteration 99.9949998749938 1
@@ -3748,7 +3748,7 @@ Current COV and iteration 0.6548868662123828 7001
 Current COV and iteration 0.5002450697979399 8001
 Current COV and iteration 0.33363201523505814 9001
 Average time =  10.409250925092506
-Mean Average Error =  0.1537250892995124
+Mean Average Error =  0.15429869037898816
 ====
 Diff = 1755425.3203, Hash Rate = 11630066441943.6000 Expected Result = 10.8046.
 Current COV and iteration 99.9949998749938 1
@@ -3762,7 +3762,7 @@ Current COV and iteration 0.6549132185662455 7001
 Current COV and iteration 0.5002757628673912 8001
 Current COV and iteration 0.33367099101745884 9001
 Average time =  10.68927726105944
-Mean Average Error =  0.15358285837225702
+Mean Average Error =  0.15415379836620594
 ====
 Diff = 1755425.3203, Hash Rate = 11572701491823.2000 Expected Result = 10.8459.
 Current COV and iteration 99.9949998749938 1
@@ -3776,7 +3776,7 @@ Current COV and iteration 0.6549349696915632 7001
 Current COV and iteration 0.5002984584449875 8001
 Current COV and iteration 0.33369912510499744 9001
 Average time =  10.7492465913258
-Mean Average Error =  0.15337278660215348
+Mean Average Error =  0.15394083395993924
 ====
 Diff = 1689334.4046, Hash Rate = 12346516199238.0000 Expected Result = 9.7944.
 Current COV and iteration 99.9949998749938 1
@@ -3790,7 +3790,7 @@ Current COV and iteration 0.655067980664114 7001
 Current COV and iteration 0.5004398508755261 8001
 Current COV and iteration 0.3338800528579579 9001
 Average time =  9.717986798679869
-Mean Average Error =  0.15308984695038133
+Mean Average Error =  0.1536547541347001
 ====
 Diff = 1689334.4046, Hash Rate = 10522124281791.6000 Expected Result = 11.4927.
 Current COV and iteration 99.9949998749938 1
@@ -3804,7 +3804,7 @@ Current COV and iteration 0.6549366069344451 7001
 Current COV and iteration 0.5002926034835493 8001
 Current COV and iteration 0.3336881678948943 9001
 Average time =  11.284145081174785
-Mean Average Error =  0.1532930157118276
+Mean Average Error =  0.15385659297547405
 ====
 Diff = 1689334.4046, Hash Rate = 10354403425116.3000 Expected Result = 11.6788.
 Current COV and iteration 99.9949998749938 1
@@ -3818,7 +3818,7 @@ Current COV and iteration 0.6549714548111928 7001
 Current COV and iteration 0.5003291920309267 8001
 Current COV and iteration 0.33373253826579447 9001
 Average time =  11.427282728272825
-Mean Average Error =  0.153651498398015
+Mean Average Error =  0.15421432439947294
 ====
 Diff = 1689334.4046, Hash Rate = 11918806584852.3000 Expected Result = 10.1459.
 Current COV and iteration 99.9949998749938 1
@@ -3832,7 +3832,7 @@ Current COV and iteration 0.6549513940197543 7001
 Current COV and iteration 0.5003207674007774 8001
 Current COV and iteration 0.33373201980349526 9001
 Average time =  10.088265493215989
-Mean Average Error =  0.15330234570123683
+Mean Average Error =  0.15386184331328512
 ====
 Diff = 1689334.4046, Hash Rate = 10175971699681.4000 Expected Result = 11.8836.
 Current COV and iteration 99.9949998749938 1
@@ -3846,7 +3846,7 @@ Current COV and iteration 0.654973330711974 7001
 Current COV and iteration 0.5003340425405015 8001
 Current COV and iteration 0.3337404698841029 9001
 Average time =  11.581446477981132
-Mean Average Error =  0.15384166155746012
+Mean Average Error =  0.15440108578130543
 ====
 Diff = 1689334.4046, Hash Rate = 12377698305399.8000 Expected Result = 9.7698.
 Current COV and iteration 99.9949998749938 1
@@ -3860,7 +3860,7 @@ Current COV and iteration 0.6550825614388402 7001
 Current COV and iteration 0.5004544072880815 8001
 Current COV and iteration 0.333896899300493 9001
 Average time =  9.698268160149349
-Mean Average Error =  0.15354451418667742
+Mean Average Error =  0.15410083489025234
 ====
 Diff = 1689334.4046, Hash Rate = 9192037126577.8900 Expected Result = 13.1557.
 Current COV and iteration 99.9949998749938 1
@@ -3874,7 +3874,7 @@ Current COV and iteration 0.6550497437900961 7001
 Current COV and iteration 0.5004211879591647 8001
 Current COV and iteration 0.3338742602650246 9001
 Average time =  12.888843884388441
-Mean Average Error =  0.15395210987525612
+Mean Average Error =  0.1545078936654195
 ====
 Diff = 1689334.4046, Hash Rate = 12178254440543.0000 Expected Result = 9.9298.
 Current COV and iteration 99.9949998749938 1
@@ -3888,7 +3888,7 @@ Current COV and iteration 0.6549871696261543 7001
 Current COV and iteration 0.5003546781126196 8001
 Current COV and iteration 0.3337730888822211 9001
 Average time =  9.853385338533853
-Mean Average Error =  0.15367419787378978
+Mean Average Error =  0.15422698275822788
 ====
 Diff = 1689334.4046, Hash Rate = 10958881959364.2000 Expected Result = 11.0346.
 Current COV and iteration 99.9949998749938 1
@@ -3902,7 +3902,7 @@ Current COV and iteration 0.6549055036559923 7001
 Current COV and iteration 0.5002645303263646 8001
 Current COV and iteration 0.3336556136955876 9001
 Average time =  10.886043604360435
-Mean Average Error =  0.15365592000866757
+Mean Average Error =  0.15420665807321476
 ====
 Diff = 1689334.4046, Hash Rate = 11368467450761.3000 Expected Result = 10.6371.
 Current COV and iteration 99.9949998749938 1
@@ -3916,7 +3916,7 @@ Current COV and iteration 0.6548729550176624 7001
 Current COV and iteration 0.5002287819344916 8001
 Current COV and iteration 0.3336110002977611 9001
 Average time =  10.517616761676168
-Mean Average Error =  0.1535343090418176
+Mean Average Error =  0.1540826458598241
 ====
 Diff = 1689334.4046, Hash Rate = 9981857435930.0200 Expected Result = 12.1147.
 Current COV and iteration 99.9949998749938 1
@@ -3930,7 +3930,7 @@ Current COV and iteration 0.6550147440631718 7001
 Current COV and iteration 0.5003804774561421 8001
 Current COV and iteration 0.3338042261924053 9001
 Average time =  11.811077774444112
-Mean Average Error =  0.1540665356961228
+Mean Average Error =  0.15461481518258588
 ====
 Diff = 1689334.4046, Hash Rate = 10749215791476.5000 Expected Result = 11.2499.
 Current COV and iteration 99.9949998749938 1
@@ -3944,7 +3944,7 @@ Current COV and iteration 0.6549542487201722 7001
 Current COV and iteration 0.5003181329601545 8001
 Current COV and iteration 0.33372410331800956 9001
 Average time =  11.090927426075941
-Mean Average Error =  0.1540838715202498
+Mean Average Error =  0.1546302682277684
 ====
 Diff = 1689334.4046, Hash Rate = 10428662597334.8000 Expected Result = 11.5957.
 Current COV and iteration 99.9949998749938 1
@@ -3958,7 +3958,7 @@ Current COV and iteration 0.6549532656923762 7001
 Current COV and iteration 0.5003103300648909 8001
 Current COV and iteration 0.3337101466683422 9001
 Average time =  11.363181318131813
-Mean Average Error =  0.15436005042992562
+Mean Average Error =  0.1549054923042363
 ====
 Diff = 1689334.4046, Hash Rate = 7702901253846.5000 Expected Result = 15.6989.
 Current COV and iteration 99.9949998749938 1
@@ -3972,7 +3972,7 @@ Current COV and iteration 0.6551793651650714 7001
 Current COV and iteration 0.500558782377454 8001
 Current COV and iteration 0.33402124829266866 9001
 Average time =  15.319033570023668
-Mean Average Error =  0.1551513008844744
+Mean Average Error =  0.15569760828195495
 ====
 Diff = 1689334.4046, Hash Rate = 10113794284572.3000 Expected Result = 11.9567.
 Current COV and iteration 99.9949998749938 1
@@ -3986,7 +3986,7 @@ Current COV and iteration 0.6549634481921524 7001
 Current COV and iteration 0.5003264955992849 8001
 Current COV and iteration 0.3337349481076 9001
 Average time =  11.667103377004368
-Mean Average Error =  0.15562138942332462
+Mean Average Error =  0.15616742938621347
 ====
 Diff = 1689334.4046, Hash Rate = 8113210761363.0700 Expected Result = 14.9050.
 Current COV and iteration 99.9949998749938 1
@@ -4000,7 +4000,7 @@ Current COV and iteration 0.6551371918747227 7001
 Current COV and iteration 0.5005107406183519 8001
 Current COV and iteration 0.33396714834273056 9001
 Average time =  14.56995532886622
-Mean Average Error =  0.1562465576522809
+Mean Average Error =  0.15679287428742875
 ====
 Diff = 1689334.4046, Hash Rate = 10220715776746.6000 Expected Result = 10.3608.
 Current COV and iteration 99.9949998749938 1
@@ -4014,7 +4014,7 @@ Current COV and iteration 0.6549500765225064 7001
 Current COV and iteration 0.5003074607276827 8001
 Current COV and iteration 0.3337063399359166 9001
 Average time =  11.542612594592791
-Mean Average Error =  0.15980755083610212
+Mean Average Error =  0.1603643715707227
 ====
 Diff = 1468195.4272, Hash Rate = 9816150835872.3500 Expected Result = 10.7066.
 Current COV and iteration 99.9949998749938 1
@@ -4028,7 +4028,7 @@ Current COV and iteration 0.6548743853408587 7001
 Current COV and iteration 0.5002310642477826 8001
 Current COV and iteration 0.3336146331723393 9001
 Average time =  10.546699669966996
-Mean Average Error =  0.1598078718713855
+Mean Average Error =  0.16036276031538338
 ====
 Diff = 1468195.4272, Hash Rate = 8672695552008.4100 Expected Result = 12.1182.
 Current COV and iteration 99.9949998749938 1
@@ -4042,7 +4042,7 @@ Current COV and iteration 0.6550024107468222 7001
 Current COV and iteration 0.5003669572168242 8001
 Current COV and iteration 0.33378681363786283 9001
 Average time =  11.790290695736243
-Mean Average Error =  0.16038753198308334
+Mean Average Error =  0.16094250614219435
 ====
 Diff = 1468195.4272, Hash Rate = 8722604020794.8500 Expected Result = 12.0489.
 Current COV and iteration 99.9949998749938 1
@@ -4056,7 +4056,7 @@ Current COV and iteration 0.6549744054310944 7001
 Current COV and iteration 0.5003378683990902 8001
 Current COV and iteration 0.3337492034651938 9001
 Average time =  11.725550888422175
-Mean Average Error =  0.16094753741124398
+Mean Average Error =  0.1615025289195586
 ====
 Diff = 1468195.4272, Hash Rate = 8831518420275.2700 Expected Result = 11.9003.
 Current COV and iteration 99.9949998749938 1
@@ -4070,7 +4070,7 @@ Current COV and iteration 0.6549751771239599 7001
 Current COV and iteration 0.5003360142791458 8001
 Current COV and iteration 0.33374302366406666 9001
 Average time =  11.57285728572857
-Mean Average Error =  0.16151772637309392
+Mean Average Error =  0.16207277010633478
 ====
 Diff = 1468195.4272, Hash Rate = 9502574596735.4600 Expected Result = 11.0599.
 Current COV and iteration 99.9949998749938 1
@@ -4084,7 +4084,7 @@ Current COV and iteration 0.6549040473440902 7001
 Current COV and iteration 0.5002629075941519 8001
 Current COV and iteration 0.33365359318390325 9001
 Average time =  10.887515418208487
-Mean Average Error =  0.1615548146168428
+Mean Average Error =  0.16210808452991415
 ====
 Diff = 1468195.4272, Hash Rate = 8456925498440.5000 Expected Result = 12.4274.
 Current COV and iteration 99.9949998749938 1
@@ -4098,7 +4098,7 @@ Current COV and iteration 0.6550293226409175 7001
 Current COV and iteration 0.5003944592201779 8001
 Current COV and iteration 0.33382551371559266 9001
 Average time =  12.07919625295863
-Mean Average Error =  0.16218967493121192
+Mean Average Error =  0.16274322330981675
 ====
 Diff = 1468195.4272, Hash Rate = 8776461531552.0900 Expected Result = 11.9749.
 Current COV and iteration 99.9949998749938 1
@@ -4112,7 +4112,7 @@ Current COV and iteration 0.6549610119229208 7001
 Current COV and iteration 0.5003231988266645 8001
 Current COV and iteration 0.33373038203368577 9001
 Average time =  11.65768410174351
-Mean Average Error =  0.16271518755265355
+Mean Average Error =  0.1632686405715401
 ====
 Diff = 1468195.4272, Hash Rate = 7335083285462.4000 Expected Result = 14.3281.
 Current COV and iteration 99.9949998749938 1
@@ -4126,7 +4126,7 @@ Current COV and iteration 0.6551116348104467 7001
 Current COV and iteration 0.5004838870864442 8001
 Current COV and iteration 0.33394347612845815 9001
 Average time =  13.966376637663766
-Mean Average Error =  0.16338751246746294
+Mean Average Error =  0.16394136844192891
 ====
 Diff = 1468195.4272, Hash Rate = 7663582755580.5800 Expected Result = 13.7139.
 Current COV and iteration 99.9949998749938 1
@@ -4140,7 +4140,7 @@ Current COV and iteration 0.6551132541841832 7001
 Current COV and iteration 0.5004801126293887 8001
 Current COV and iteration 0.3339361763770251 9001
 Average time =  13.343851051771844
-Mean Average Error =  0.16408334221749896
+Mean Average Error =  0.16463767783309863
 ====
 Diff = 1468195.4272, Hash Rate = 9256910761323.4600 Expected Result = 11.3534.
 Current COV and iteration 99.9949998749938 1
@@ -4154,7 +4154,7 @@ Current COV and iteration 0.6549521928057237 7001
 Current COV and iteration 0.5003158376261188 8001
 Current COV and iteration 0.33372134487312294 9001
 Average time =  11.134771810514385
-Mean Average Error =  0.16426637861772753
+Mean Average Error =  0.16481946406761888
 ====
 Diff = 1468195.4272, Hash Rate = 9422729597035.5000 Expected Result = 11.1536.
 Current COV and iteration 99.9949998749938 1
@@ -4168,7 +4168,7 @@ Current COV and iteration 0.6549889434265149 7001
 Current COV and iteration 0.5003542219878517 8001
 Current COV and iteration 0.33376706732711303 9001
 Average time =  10.98011634496783
-Mean Average Error =  0.16429720562914707
+Mean Average Error =  0.16484853853394288
 ====
 Diff = 1468195.4272, Hash Rate = 8612740856551.0400 Expected Result = 12.2026.
 Current COV and iteration 99.9949998749938 1
@@ -4182,7 +4182,7 @@ Current COV and iteration 0.6550547807836286 7001
 Current COV and iteration 0.5004235210309314 8001
 Current COV and iteration 0.3338595960592327 9001
 Average time =  11.857330733073308
-Mean Average Error =  0.16490044583347221
+Mean Average Error =  0.1654519523412765
 ====
 Diff = 1468195.4272, Hash Rate = 7452227500443.4300 Expected Result = 14.1028.
 Current COV and iteration 99.9949998749938 1
@@ -4196,7 +4196,7 @@ Current COV and iteration 0.6550649296051017 7001
 Current COV and iteration 0.5004319683418356 8001
 Current COV and iteration 0.3338752266888297 9001
 Average time =  13.746364636463646
-Mean Average Error =  0.16553677446371437
+Mean Average Error =  0.16608856371192673
 ====
 Diff = 1468195.4272, Hash Rate = 7456663000453.5500 Expected Result = 14.0944.
 Current COV and iteration 99.9949998749938 1
@@ -4210,7 +4210,7 @@ Current COV and iteration 0.6550738277151805 7001
 Current COV and iteration 0.5004413077236033 8001
 Current COV and iteration 0.33388653026660947 9001
 Average time =  13.733014968163483
-Mean Average Error =  0.16618527862720048
+Mean Average Error =  0.16673738918742373
 ====
 Diff = 1468195.4272, Hash Rate = 8573608810839.4100 Expected Result = 12.2583.
 Current COV and iteration 99.9949998749938 1
@@ -4224,7 +4224,7 @@ Current COV and iteration 0.6550486841872718 7001
 Current COV and iteration 0.5004158059150224 8001
 Current COV and iteration 0.3338509163560397 9001
 Average time =  11.909314264759809
-Mean Average Error =  0.16678858046420705
+Mean Average Error =  0.1673408605319693
 ====
 Diff = 1468195.4272, Hash Rate = 7780847719931.2300 Expected Result = 13.5072.
 Current COV and iteration 99.9949998749938 1
@@ -4238,7 +4238,7 @@ Current COV and iteration 0.6550173339774875 7001
 Current COV and iteration 0.5003850363613149 8001
 Current COV and iteration 0.3338269222239322 9001
 Average time =  13.184818481848186
-Mean Average Error =  0.16730039933817945
+Mean Average Error =  0.16785254587064868
 ====
 Diff = 1468195.4272, Hash Rate = 8066042868145.3300 Expected Result = 10.9672.
 Current COV and iteration 99.9949998749938 1
@@ -4252,7 +4252,7 @@ Current COV and iteration 0.6550209900775793 7001
 Current COV and iteration 0.5003883440114756 8001
 Current COV and iteration 0.3338262544841008 9001
 Average time =  12.701881854852152
-Mean Average Error =  0.17243935493002852
+Mean Average Error =  0.17300658965019308
 ====
 Diff = 1203461.9264, Hash Rate = 9097382720650.8600 Expected Result = 9.4694.
 Current COV and iteration 99.9949998749938 1
@@ -4266,7 +4266,7 @@ Current COV and iteration 0.6551202455528792 7001
 Current COV and iteration 0.5004970290830073 8001
 Current COV and iteration 0.3339552933381158 9001
 Average time =  9.426162616261626
-Mean Average Error =  0.1720171262660035
+Mean Average Error =  0.17258111684392483
 ====
 Diff = 1203461.9264, Hash Rate = 9074014350063.2900 Expected Result = 9.4938.
 Current COV and iteration 99.9949998749938 1
@@ -4280,7 +4280,7 @@ Current COV and iteration 0.6551082084336574 7001
 Current COV and iteration 0.5004868555884162 8001
 Current COV and iteration 0.33394334533900666 9001
 Average time =  9.44235590225689
-Mean Average Error =  0.1716243802447563
+Mean Average Error =  0.17218524423248424
 ====
 Diff = 1203461.9264, Hash Rate = 7515979968043.4900 Expected Result = 11.4619.
 Current COV and iteration 99.9949998749938 1
@@ -4294,7 +4294,7 @@ Current COV and iteration 0.6549285714590993 7001
 Current COV and iteration 0.5002852398414882 8001
 Current COV and iteration 0.3336793812901699 9001
 Average time =  11.25860419375271
-Mean Average Error =  0.17172720954995932
+Mean Average Error =  0.17228658156803736
 ====
 Diff = 1203461.9264, Hash Rate = 8831190328925.8300 Expected Result = 9.7549.
 Current COV and iteration 99.9949998749938 1
@@ -4308,7 +4308,7 @@ Current COV and iteration 0.655041755342077 7001
 Current COV and iteration 0.5004103677792194 8001
 Current COV and iteration 0.3338413393573313 9001
 Average time =  9.686885355202186
-Mean Average Error =  0.17139157018182938
+Mean Average Error =  0.1719480363187834
 ====
 Diff = 1203461.9264, Hash Rate = 8646399751421.7300 Expected Result = 9.9634.
 Current COV and iteration 99.9949998749938 1
@@ -4322,7 +4322,7 @@ Current COV and iteration 0.6549633175838788 7001
 Current COV and iteration 0.5003312692132788 8001
 Current COV and iteration 0.33374611497942763 9001
 Average time =  9.887237057039037
-Mean Average Error =  0.17108438106176208
+Mean Average Error =  0.17163805219788428
 ====
 Diff = 1203461.9264, Hash Rate = 8698174202390.6600 Expected Result = 9.9041.
 Current COV and iteration 99.9949998749938 1
@@ -4336,7 +4336,7 @@ Current COV and iteration 0.6549938757818506 7001
 Current COV and iteration 0.5003615133618411 8001
 Current COV and iteration 0.333782008271164 9001
 Average time =  9.823145647898123
-Mean Average Error =  0.1707945738946885
+Mean Average Error =  0.17134552413305845
 ====
 Diff = 1203461.9264, Hash Rate = 7845247784051.2900 Expected Result = 10.9808.
 Current COV and iteration 99.9949998749938 1
@@ -4350,7 +4350,7 @@ Current COV and iteration 0.6549102640759356 7001
 Current COV and iteration 0.500270015331421 8001
 Current COV and iteration 0.33366227039449137 9001
 Average time =  10.841420808747541
-Mean Average Error =  0.170693883565707
+Mean Average Error =  0.17124273849678642
 ====
 Diff = 1203461.9264, Hash Rate = 8944065740136.6500 Expected Result = 9.6318.
 Current COV and iteration 99.9949998749938 1
@@ -4364,7 +4364,7 @@ Current COV and iteration 0.6551216960088359 7001
 Current COV and iteration 0.5004988223479923 8001
 Current COV and iteration 0.33395315572624956 9001
 Average time =  9.577319398606528
-Mean Average Error =  0.17032259512426215
+Mean Average Error =  0.17086850087786556
 ====
 Diff = 1203461.9264, Hash Rate = 9593092268883.2500 Expected Result = 8.9801.
 Current COV and iteration 99.9949998749938 1
@@ -4378,7 +4378,7 @@ Current COV and iteration 0.6551023615924987 7001
 Current COV and iteration 0.5004753630746801 8001
 Current COV and iteration 0.33391959516232433 9001
 Average time =  8.895134513451346
-Mean Average Error =  0.17005075719886212
+Mean Average Error =  0.1705940503528521
 ====
 Diff = 1203461.9264, Hash Rate = 8453637264248.8400 Expected Result = 10.1905.
 Current COV and iteration 99.9949998749938 1
@@ -4392,7 +4392,7 @@ Current COV and iteration 0.6549670945823698 7001
 Current COV and iteration 0.50033867201236 8001
 Current COV and iteration 0.3337550916822492 9001
 Average time =  10.13074140747408
-Mean Average Error =  0.16970062334275757
+Mean Average Error =  0.1702410711877982
 ====
 Diff = 1203461.9264, Hash Rate = 7464059173106.5500 Expected Result = 11.5416.
 Current COV and iteration 99.9949998749938 1
@@ -4406,7 +4406,7 @@ Current COV and iteration 0.6549662866929968 7001
 Current COV and iteration 0.5003259083156467 8001
 Current COV and iteration 0.33373045000471074 9001
 Average time =  11.323819048571524
-Mean Average Error =  0.1698527762797377
+Mean Average Error =  0.1703919914425305
 ====
 Diff = 1203461.9264, Hash Rate = 8152098678236.0800 Expected Result = 10.5675.
 Current COV and iteration 99.9949998749938 1
@@ -4420,7 +4420,7 @@ Current COV and iteration 0.6548897549876007 7001
 Current COV and iteration 0.5002470473296889 8001
 Current COV and iteration 0.33363320827212756 9001
 Average time =  10.462864619795312
-Mean Average Error =  0.16964704316909085
+Mean Average Error =  0.17018390090063862
 ====
 Diff = 1203461.9264, Hash Rate = 8874691061927.1800 Expected Result = 9.7071.
 Current COV and iteration 99.9949998749938 1
@@ -4434,7 +4434,7 @@ Current COV and iteration 0.6550582201237914 7001
 Current COV and iteration 0.5004295179044715 8001
 Current COV and iteration 0.3338659422284917 9001
 Average time =  9.639795646231288
-Mean Average Error =  0.1693252108124859
+Mean Average Error =  0.16985935974249372
 ====
 Diff = 1203461.9264, Hash Rate = 8250219903335.1200 Expected Result = 10.3773.
 Current COV and iteration 99.9949998749938 1
@@ -4448,7 +4448,7 @@ Current COV and iteration 0.6548964785657042 7001
 Current COV and iteration 0.5002587407158607 8001
 Current COV and iteration 0.3336515203948918 9001
 Average time =  10.372870620395373
-Mean Average Error =  0.1688082959811133
+Mean Average Error =  0.1693391396791671
 ====
 Diff = 1192497.7501, Hash Rate = 9897833336878.2400 Expected Result = 8.6243.
 Current COV and iteration 99.9949998749938 1
@@ -4462,7 +4462,7 @@ Current COV and iteration 0.6550038188157529 7001
 Current COV and iteration 0.5003841223834407 8001
 Current COV and iteration 0.333817866844209 9001
 Average time =  8.536977031036436
-Mean Average Error =  0.16855365433418346
+Mean Average Error =  0.16908203569573263
 ====
 Diff = 1192497.7501, Hash Rate = 8014497502351.4400 Expected Result = 10.6510.
 Current COV and iteration 99.9949998749938 1
@@ -4476,7 +4476,7 @@ Current COV and iteration 0.654877951651767 7001
 Current COV and iteration 0.5002343154056735 8001
 Current COV and iteration 0.3336178365551811 9001
 Average time =  10.513718038470511
-Mean Average Error =  0.1684562347304305
+Mean Average Error =  0.1689826604639631
 ====
 Diff = 1192497.7501, Hash Rate = 8211228225385.1400 Expected Result = 10.3958.
 Current COV and iteration 99.9949998749938 1
@@ -4490,7 +4490,7 @@ Current COV and iteration 0.6549292701483515 7001
 Current COV and iteration 0.5002954847054797 8001
 Current COV and iteration 0.33369820729453376 9001
 Average time =  10.294341100776743
-Mean Average Error =  0.16824816847109145
+Mean Average Error =  0.1687723060675746
 ====
 Diff = 1192497.7501, Hash Rate = 7915398335397.6900 Expected Result = 10.7843.
 Current COV and iteration 99.9949998749938 1
@@ -4504,7 +4504,7 @@ Current COV and iteration 0.6548656094234758 7001
 Current COV and iteration 0.5002212997177347 8001
 Current COV and iteration 0.3336013827171041 9001
 Average time =  10.630889755642231
-Mean Average Error =  0.16820223062553938
+Mean Average Error =  0.1687245978013951
 ====
 Diff = 1192497.7501, Hash Rate = 7289761244334.1300 Expected Result = 11.7099.
 Current COV and iteration 99.9949998749938 1
@@ -4518,7 +4518,7 @@ Current COV and iteration 0.654968573365135 7001
 Current COV and iteration 0.5003262232925704 8001
 Current COV and iteration 0.3337291600600119 9001
 Average time =  11.431809847651433
-Mean Average Error =  0.16854139087777095
+Mean Average Error =  0.16906319084952875
 ====
 Diff = 1192497.7501, Hash Rate = 8364266750238.3200 Expected Result = 10.2056.
 Current COV and iteration 99.9949998749938 1
@@ -4532,7 +4532,7 @@ Current COV and iteration 0.6549638032220683 7001
 Current COV and iteration 0.5003354785039202 8001
 Current COV and iteration 0.33375134051426847 9001
 Average time =  10.124672467246723
-Mean Average Error =  0.16827180977584943
+Mean Average Error =  0.1687911672134292
 ====
 Diff = 1192497.7501, Hash Rate = 7002910509468.7500 Expected Result = 12.1895.
 Current COV and iteration 99.9949998749938 1
@@ -4546,7 +4546,7 @@ Current COV and iteration 0.6550583509640635 7001
 Current COV and iteration 0.5004274020685792 8001
 Current COV and iteration 0.33386474215742246 9001
 Average time =  11.852511917858454
-Mean Average Error =  0.16878934435365833
+Mean Average Error =  0.1693086961824388
 ====
 Diff = 1192497.7501, Hash Rate = 8357052216248.1200 Expected Result = 10.2144.
 Current COV and iteration 99.9949998749938 1
@@ -4560,7 +4560,7 @@ Current COV and iteration 0.6549670945823698 7001
 Current COV and iteration 0.50033867201236 8001
 Current COV and iteration 0.33375499450021856 9001
 Average time =  10.13133646698003
-Mean Average Error =  0.16852718590921278
+Mean Average Error =  0.1690441404672165
 ====
 Diff = 1192497.7501, Hash Rate = 7943897264693.3000 Expected Result = 10.7456.
 Current COV and iteration 99.9949998749938 1
@@ -4574,7 +4574,7 @@ Current COV and iteration 0.654876572310011 7001
 Current COV and iteration 0.5002339217791573 8001
 Current COV and iteration 0.3336178036515437 9001
 Average time =  10.573442344234424
-Mean Average Error =  0.1685382544148724
+Mean Average Error =  0.1690536619207283
 ====
 Diff = 1192497.7501, Hash Rate = 6718399078324.1400 Expected Result = 12.7058.
 Current COV and iteration 99.9949998749938 1
@@ -4588,7 +4588,7 @@ Current COV and iteration 0.6549777401540648 7001
 Current COV and iteration 0.5003401601457458 8001
 Current COV and iteration 0.33376175446037964 9001
 Average time =  12.364871487148715
-Mean Average Error =  0.16906223696331135
+Mean Average Error =  0.16957767061258974
 ====
 Diff = 1192497.7501, Hash Rate = 7967214876077.2600 Expected Result = 10.7142.
 Current COV and iteration 99.9949998749938 1
@@ -4602,7 +4602,7 @@ Current COV and iteration 0.6548735985372405 7001
 Current COV and iteration 0.5002307280555802 8001
 Current COV and iteration 0.3336141015720394 9001
 Average time =  10.549609960996099
-Mean Average Error =  0.16904868484828287
+Mean Average Error =  0.16956251063809527
 ====
 Diff = 1192497.7501, Hash Rate = 7086950099886.4000 Expected Result = 12.0450.
 Current COV and iteration 99.9949998749938 1
@@ -4616,7 +4616,7 @@ Current COV and iteration 0.6549744054310944 7001
 Current COV and iteration 0.5003378683990902 8001
 Current COV and iteration 0.3337492034651938 9001
 Average time =  11.725550888422175
-Mean Average Error =  0.16950306680214855
+Mean Average Error =  0.17001671245912475
 ====
 Diff = 1192497.7501, Hash Rate = 6791255916713.2400 Expected Result = 12.5694.
 Current COV and iteration 99.9949998749938 1
@@ -4630,7 +4630,7 @@ Current COV and iteration 0.655006666781417 7001
 Current COV and iteration 0.5003647682833241 8001
 Current COV and iteration 0.333784093188393 9001
 Average time =  12.207307397406407
-Mean Average Error =  0.17008315576537578
+Mean Average Error =  0.1705970021574162
 ====
 Diff = 1192497.7501, Hash Rate = 7628428394272.9100 Expected Result = 11.1900.
 Current COV and iteration 99.9949998749938 1
@@ -4644,7 +4644,7 @@ Current COV and iteration 0.655002731127824 7001
 Current COV and iteration 0.5003697772413757 8001
 Current COV and iteration 0.33378694375996704 9001
 Average time =  10.997726439310599
-Mean Average Error =  0.17014979361800048
+Mean Average Error =  0.17066229299636795
 ====
 Diff = 1192497.7501, Hash Rate = 8097693737932.0800 Expected Result = 10.1634.
 Current COV and iteration 99.9949998749938 1
@@ -4658,7 +4658,7 @@ Current COV and iteration 0.6548923463595105 7001
 Current COV and iteration 0.5002503089043991 8001
 Current COV and iteration 0.33363809421030094 9001
 Average time =  10.431124779144579
-Mean Average Error =  0.17044193429322976
+Mean Average Error =  0.17095377193374997
 ====
 Diff = 1090715.6801, Hash Rate = 8394576394394.5400 Expected Result = 9.3008.
 Current COV and iteration 99.9949998749938 1
@@ -4672,7 +4672,7 @@ Current COV and iteration 0.6550954898347892 7001
 Current COV and iteration 0.5004616914497344 8001
 Current COV and iteration 0.33390226817091173 9001
 Average time =  9.217473414008065
-Mean Average Error =  0.17018188847740498
+Mean Average Error =  0.1706914150896128
 ====
 Diff = 1090715.6801, Hash Rate = 9929135974518.2900 Expected Result = 7.8634.
 Current COV and iteration 99.9949998749938 1
@@ -4686,7 +4686,7 @@ Current COV and iteration 0.6552477733561903 7001
 Current COV and iteration 0.500642731652893 8001
 Current COV and iteration 0.3341477309809812 9001
 Average time =  7.79037903790379
-Mean Average Error =  0.16989271905365144
+Mean Average Error =  0.1703998614985877
 ====
 Diff = 1090715.6801, Hash Rate = 7918469372241.3100 Expected Result = 9.8600.
 Current COV and iteration 99.9949998749938 1
@@ -4700,7 +4700,7 @@ Current COV and iteration 0.6550102818842918 7001
 Current COV and iteration 0.5003780267309019 8001
 Current COV and iteration 0.3338009332346197 9001
 Average time =  9.793597693102644
-Mean Average Error =  0.16958562584250517
+Mean Average Error =  0.17009034496703643
 ====
 Diff = 1090715.6801, Hash Rate = 8216204957114.1600 Expected Result = 9.5027.
 Current COV and iteration 99.9949998749938 1
@@ -4714,7 +4714,7 @@ Current COV and iteration 0.655100576563157 7001
 Current COV and iteration 0.500478380049658 8001
 Current COV and iteration 0.33393251238540594 9001
 Average time =  9.452863619695304
-Mean Average Error =  0.1692313381338134
+Mean Average Error =  0.16973350827664374
 ====
 Diff = 1090715.6801, Hash Rate = 7349814748075.4600 Expected Result = 10.6229.
 Current COV and iteration 99.9949998749938 1
@@ -4728,7 +4728,7 @@ Current COV and iteration 0.6548800028220632 7001
 Current COV and iteration 0.5002367530249548 8001
 Current COV and iteration 0.3336209744598563 9001
 Average time =  10.511566156615661
-Mean Average Error =  0.16906054906375598
+Mean Average Error =  0.16956072820299786
 ====
 Diff = 1090715.6801, Hash Rate = 8566128875988.0800 Expected Result = 9.1146.
 Current COV and iteration 99.9949998749938 1
@@ -4742,7 +4742,7 @@ Current COV and iteration 0.6550877208170092 7001
 Current COV and iteration 0.500459423957561 8001
 Current COV and iteration 0.3339020529699608 9001
 Average time =  9.012074540787413
-Mean Average Error =  0.16886485762301723
+Mean Average Error =  0.16936298404668396
 ====
 Diff = 1090715.6801, Hash Rate = 9329457956004.1000 Expected Result = 8.3688.
 Current COV and iteration 99.9949998749938 1
@@ -4756,7 +4756,7 @@ Current COV and iteration 0.6549894867928486 7001
 Current COV and iteration 0.5003688679588305 8001
 Current COV and iteration 0.33379743617521024 9001
 Average time =  8.303987065373203
-Mean Average Error =  0.16855972001892275
+Mean Average Error =  0.16905548390133132
 ====
 Diff = 1090715.6801, Hash Rate = 7474023864196.4300 Expected Result = 10.4464.
 Current COV and iteration 99.9949998749938 1
@@ -4770,7 +4770,7 @@ Current COV and iteration 0.6548933939882058 7001
 Current COV and iteration 0.500255509460211 8001
 Current COV and iteration 0.33364763875195796 9001
 Average time =  10.374329099576624
-Mean Average Error =  0.16827758896747377
+Mean Average Error =  0.16877107163306754
 ====
 Diff = 1090715.6801, Hash Rate = 8847803352553.8200 Expected Result = 8.8244.
 Current COV and iteration 99.9949998749938 1
@@ -4784,7 +4784,7 @@ Current COV and iteration 0.6549883468968516 7001
 Current COV and iteration 0.5003589147668501 8001
 Current COV and iteration 0.3337800518190964 9001
 Average time =  8.720648731539821
-Mean Average Error =  0.1680894655840706
+Mean Average Error =  0.16858095524952108
 ====
 Diff = 1090715.6801, Hash Rate = 7990374687966.6000 Expected Result = 9.7713.
 Current COV and iteration 99.9949998749938 1
@@ -4798,7 +4798,7 @@ Current COV and iteration 0.6550786771608973 7001
 Current COV and iteration 0.5004497375583763 8001
 Current COV and iteration 0.33389069014702194 9001
 Average time =  9.70157849118245
-Mean Average Error =  0.1678035122213772
+Mean Average Error =  0.168292735289078
 ====
 Diff = 1090715.6801, Hash Rate = 7845786196881.3900 Expected Result = 9.9514.
 Current COV and iteration 99.9949998749938 1
@@ -4812,7 +4812,7 @@ Current COV and iteration 0.6549754645220196 7001
 Current COV and iteration 0.500344336432331 8001
 Current COV and iteration 0.3337628868454445 9001
 Average time =  9.873404007067373
-Mean Average Error =  0.1675432005712649
+Mean Average Error =  0.16803024475897207
 ====
 Diff = 1090715.6801, Hash Rate = 8215351808019.6900 Expected Result = 9.5037.
 Current COV and iteration 99.9949998749938 1
@@ -4826,7 +4826,7 @@ Current COV and iteration 0.655100576563157 7001
 Current COV and iteration 0.500478380049658 8001
 Current COV and iteration 0.33393251238540594 9001
 Average time =  9.452863619695304
-Mean Average Error =  0.16720589762251759
+Mean Average Error =  0.16769055239823502
 ====
 Diff = 1155038.3340, Hash Rate = 6960389250550.8200 Expected Result = 11.3266.
 Current COV and iteration 99.9949998749938 1
@@ -4840,7 +4840,7 @@ Current COV and iteration 0.6549540212136528 7001
 Current COV and iteration 0.5003120706987119 8001
 Current COV and iteration 0.33371254153653934 9001
 Average time =  11.54774810814415
-Mean Average Error =  0.1673613506787759
+Mean Average Error =  0.16784505400443708
 ====
 Diff = 1155038.3340, Hash Rate = 7629767749167.1400 Expected Result = 10.8366.
 Current COV and iteration 99.9949998749938 1
@@ -4854,7 +4854,7 @@ Current COV and iteration 0.654881893475741 7001
 Current COV and iteration 0.5002395453588981 8001
 Current COV and iteration 0.33362406801633304 9001
 Average time =  10.657535753575358
-Mean Average Error =  0.16739497968953987
+Mean Average Error =  0.16787738597106594
 ====
 Diff = 1155038.3340, Hash Rate = 8734698215223.0400 Expected Result = 9.4658.
 Current COV and iteration 99.9949998749938 1
@@ -4868,7 +4868,7 @@ Current COV and iteration 0.6551495848867037 7001
 Current COV and iteration 0.5005283815322182 8001
 Current COV and iteration 0.3339947648233511 9001
 Average time =  9.376954362102877
-Mean Average Error =  0.16716990994228367
+Mean Average Error =  0.16765028324671552
 ====
 Diff = 1155038.3340, Hash Rate = 6590695579516.9400 Expected Result = 12.5451.
 Current COV and iteration 99.9949998749938 1
@@ -4882,7 +4882,7 @@ Current COV and iteration 0.6550270925628376 7001
 Current COV and iteration 0.5003880480166546 8001
 Current COV and iteration 0.3338137203320649 9001
 Average time =  12.16222622262226
-Mean Average Error =  0.16778620670638497
+Mean Average Error =  0.1682669694763173
 ====
 Diff = 1155038.3340, Hash Rate = 6848317937481.1900 Expected Result = 12.0732.
 Current COV and iteration 99.9949998749938 1
@@ -4896,7 +4896,7 @@ Current COV and iteration 0.654977723521486 7001
 Current COV and iteration 0.5003410642278397 8001
 Current COV and iteration 0.3337532876008981 9001
 Average time =  11.738645531219788
-Mean Average Error =  0.16826132996015655
+Mean Average Error =  0.16874207661718557
 ====
 Diff = 1155038.3340, Hash Rate = 8280322927214.9000 Expected Result = 9.9852.
 Current COV and iteration 99.9949998749938 1
@@ -4910,7 +4910,7 @@ Current COV and iteration 0.6549809959991411 7001
 Current COV and iteration 0.5003502355379942 8001
 Current COV and iteration 0.33377005912075414 9001
 Average time =  9.865156515651565
-Mean Average Error =  0.16812434744421417
+Mean Average Error =  0.16860333418906948
 ====
 Diff = 1155038.3340, Hash Rate = 8465818175440.5000 Expected Result = 9.7664.
 Current COV and iteration 99.9949998749938 1
@@ -4924,7 +4924,7 @@ Current COV and iteration 0.6550322448407808 7001
 Current COV and iteration 0.5004006383337151 8001
 Current COV and iteration 0.3338296849064189 9001
 Average time =  9.660361036103609
-Mean Average Error =  0.1679484681707076
+Mean Average Error =  0.16842559450073802
 ====
 Diff = 1155038.3340, Hash Rate = 8930780305137.2000 Expected Result = 9.2580.
 Current COV and iteration 99.9949998749938 1
@@ -4938,7 +4938,7 @@ Current COV and iteration 0.6551188771675637 7001
 Current COV and iteration 0.5004923431998594 8001
 Current COV and iteration 0.33394404675408806 9001
 Average time =  9.127672767276728
-Mean Average Error =  0.16784219349430243
+Mean Average Error =  0.1683176671302636
 ====
 Diff = 1155038.3340, Hash Rate = 7677474742507.5800 Expected Result = 10.7693.
 Current COV and iteration 99.9949998749938 1
@@ -4952,7 +4952,7 @@ Current COV and iteration 0.6548701421571996 7001
 Current COV and iteration 0.5002268047418503 8001
 Current COV and iteration 0.3336090420804007 9001
 Average time =  10.583486682001533
-Mean Average Error =  0.16789281638022965
+Mean Average Error =  0.16836708987282917
 ====
 Diff = 1155038.3340, Hash Rate = 8560721400792.4200 Expected Result = 9.6582.
 Current COV and iteration 99.9949998749938 1
@@ -4966,7 +4966,7 @@ Current COV and iteration 0.6551304641181321 7001
 Current COV and iteration 0.5005081608951119 8001
 Current COV and iteration 0.3339651028166534 9001
 Average time =  9.563444677801112
-Mean Average Error =  0.16768737398084388
+Mean Average Error =  0.1681597327807899
 ====
 Diff = 1155038.3340, Hash Rate = 8694488445260.4700 Expected Result = 9.5096.
 Current COV and iteration 99.9949998749938 1
@@ -4980,7 +4980,7 @@ Current COV and iteration 0.655117890788649 7001
 Current COV and iteration 0.50049542052574 8001
 Current COV and iteration 0.33395379105488815 9001
 Average time =  9.430296362969631
-Mean Average Error =  0.1674398004879854
+Mean Average Error =  0.16791013700621008
 ====
 Diff = 1155038.3340, Hash Rate = 7994835726575.5000 Expected Result = 10.3418.
 Current COV and iteration 99.9949998749938 1
@@ -4994,7 +4994,7 @@ Current COV and iteration 0.6549619463261258 7001
 Current COV and iteration 0.500333939395252 8001
 Current COV and iteration 0.33374824211167997 9001
 Average time =  10.252540254025403
-Mean Average Error =  0.1672214204474452
+Mean Average Error =  0.1676898277876341
 ====
 Diff = 1155038.3340, Hash Rate = 8369190114486.7400 Expected Result = 9.8792.
 Current COV and iteration 99.9949998749938 1
@@ -5008,7 +5008,7 @@ Current COV and iteration 0.655024807728578 7001
 Current COV and iteration 0.5003932559331387 8001
 Current COV and iteration 0.33382029535009405 9001
 Average time =  9.757145714571456
-Mean Average Error =  0.16709560670087445
+Mean Average Error =  0.16756235420562549
 ====
 Diff = 1155038.3340, Hash Rate = 9908833645724.8000 Expected Result = 8.3442.
 Current COV and iteration 99.9949998749938 1
@@ -5022,7 +5022,7 @@ Current COV and iteration 0.6550398308026043 7001
 Current COV and iteration 0.5004229596811312 8001
 Current COV and iteration 0.3338621422040474 9001
 Average time =  8.246252958629196
-Mean Average Error =  0.16690352735273536
+Mean Average Error =  0.16736843968519424
 ====
 Diff = 1159929.4972, Hash Rate = 10243730959072.8000 Expected Result = 8.0795.
 Current COV and iteration 99.9949998749938 1
@@ -5036,7 +5036,7 @@ Current COV and iteration 0.6551335304738177 7001
 Current COV and iteration 0.5005301654383635 8001
 Current COV and iteration 0.3340144037359593 9001
 Average time =  8.002815281528152
-Mean Average Error =  0.16665361375472734
+Mean Average Error =  0.1671165404596016
 ====
 Diff = 1159929.4972, Hash Rate = 8314662831702.0600 Expected Result = 9.9861.
 Current COV and iteration 99.9949998749938 1
@@ -5050,7 +5050,7 @@ Current COV and iteration 0.6549637927329517 7001
 Current COV and iteration 0.5003314399507849 8001
 Current COV and iteration 0.3337459916320553 9001
 Average time =  9.885573557355736
-Mean Average Error =  0.16647094201132828
+Mean Average Error =  0.16693208035484997
 ====
 Diff = 1159929.4972, Hash Rate = 8922801732333.6700 Expected Result = 9.3055.
 Current COV and iteration 99.9949998749938 1
@@ -5064,7 +5064,7 @@ Current COV and iteration 0.6551175843213618 7001
 Current COV and iteration 0.5004859934632392 8001
 Current COV and iteration 0.333932839792386 9001
 Average time =  9.197848118145146
-Mean Average Error =  0.1663089060329358
+Mean Average Error =  0.16676832290043012
 ====
 Diff = 1159929.4972, Hash Rate = 7990615511305.8400 Expected Result = 10.3911.
 Current COV and iteration 99.9949998749938 1
@@ -5078,7 +5078,7 @@ Current COV and iteration 0.6549315186502115 7001
 Current COV and iteration 0.5002991535212543 8001
 Current COV and iteration 0.3337035955655031 9001
 Average time =  10.291189118911891
-Mean Average Error =  0.16612649387649397
+Mean Average Error =  0.16658414261995538
 ====
 Diff = 1159929.4972, Hash Rate = 8154555720951.4900 Expected Result = 10.1822.
 Current COV and iteration 99.9949998749938 1
@@ -5092,7 +5092,7 @@ Current COV and iteration 0.654952472591799 7001
 Current COV and iteration 0.5003222640269707 8001
 Current COV and iteration 0.3337344141603264 9001
 Average time =  10.102630263026303
-Mean Average Error =  0.16588935207676028
+Mean Average Error =  0.16634509205499312
 ====
 Diff = 1159929.4972, Hash Rate = 8710956149914.2600 Expected Result = 9.5318.
 Current COV and iteration 99.9949998749938 1
@@ -5106,5 +5106,5 @@ Current COV and iteration 0.6550964954362732 7001
 Current COV and iteration 0.5004738672457865 8001
 Current COV and iteration 0.3339268902912262 9001
 Average time =  9.454132079874654
-Mean Average Error =  0.16564830991295862
+Mean Average Error =  0.1661021408990215
 ====
