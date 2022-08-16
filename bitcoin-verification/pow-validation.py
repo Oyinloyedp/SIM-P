@@ -10,6 +10,7 @@ from datetime import datetime
 import numpy as np
 import csv
 from dataclasses import dataclass
+import argparse
 
 # create data class for Node objects
 @dataclass
@@ -23,11 +24,16 @@ class Node:
     prob_success_node : float = 0.0
     prob_failure_node : float = 0.0
 
-file = input("File Name (with extension):")
+# file = input("File Name (with extension):")
 
 errorSum = 0
 
-with open(file) as csv_file:
+parser = argparse.ArgumentParser(description='Process csv file.')
+parser.add_argument('file', metavar='file/dir', type=str,
+                    help='file to analyze')
+args = parser.parse_args()
+
+with open(args.file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
