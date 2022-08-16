@@ -134,7 +134,8 @@ for sim in range(1, numSim):
     # Method 2: stop simulation by calculating the coefficient of variation; std/mean
     if sim > 1:
         COV = np.std(TimeRecord_average[1:sim-1]) / np.mean(TimeRecord_average[1:sim-1])
-        print("About to stop now",COV)
+        if (sim % 1000 == 0):
+            print("Current COV:",COV)
         if sim > 10000 and COV < 0.05: # 5% is good criteria for my study to stop the simulation, a lower percentage can be used, based on visual inspection of the plot above. 
             break
 
