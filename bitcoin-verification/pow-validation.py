@@ -93,6 +93,6 @@ with open(args.file) as csv_file:
 
             print("Average time = ", TimeRecord_average[sim-1]/60)
             errorSum = errorSum + abs(TimeRecord_average[sim-1]/60-Result)
-            MAE = errorSum/line_count
+            MAE = errorSum/(line_count-1)
             print("Mean Average Error = ", MAE)
             print("====")
